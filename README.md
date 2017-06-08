@@ -1,5 +1,5 @@
 ﻿Phần mềm Quản Lý Sinh Viên
-![18676571_1907201366227537_975464313_o](https://user-images.githubusercontent.com/27407242/26887018-1c0f1668-4bd1-11e7-90b1-ca02cc809a7e.png)
+![a](https://user-images.githubusercontent.com/27407242/26913937-572085ee-4c48-11e7-9a62-259c3f6a2b08.jpg)
 
 ************************
 ***BoyBanhMi (Boy_F4)***
