@@ -10,16 +10,17 @@ using System.Windows.Forms;
 
 namespace QLSV
 {
-    public partial class dangnhap : Form
+    public partial class indanhsachsvtheolop : Form
     {
-        public dangnhap()
+        public indanhsachsvtheolop()
         {
             InitializeComponent();
         }
 
-        private void lblMatKhau_Click(object sender, EventArgs e)
+        private void indanhsachsvtheolop_Load(object sender, EventArgs e)
         {
 
+            this.reportViewer1.RefreshReport();
         }
     }
 }

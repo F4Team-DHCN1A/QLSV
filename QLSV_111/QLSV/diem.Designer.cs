@@ -37,8 +37,6 @@
             this.btnLuu = new System.Windows.Forms.Button();
             this.btnThoat = new System.Windows.Forms.Button();
             this.dgvKetQua = new System.Windows.Forms.DataGridView();
-            this.cmbMaHK = new System.Windows.Forms.ComboBox();
-            this.lblMaHK = new System.Windows.Forms.Label();
             this.lblTittle = new System.Windows.Forms.Label();
             this.lblDiemGK = new System.Windows.Forms.Label();
             this.textBox1 = new System.Windows.Forms.TextBox();
@@ -47,8 +45,10 @@
             this.lblMaMH = new System.Windows.Forms.Label();
             this.lblMaGV = new System.Windows.Forms.Label();
             this.comboBox1 = new System.Windows.Forms.ComboBox();
-            this.comboBox2 = new System.Windows.Forms.ComboBox();
-            this.comboBox3 = new System.Windows.Forms.ComboBox();
+            this.lblMaHK = new System.Windows.Forms.Label();
+            this.textBox3 = new System.Windows.Forms.TextBox();
+            this.textBox4 = new System.Windows.Forms.TextBox();
+            this.textBox5 = new System.Windows.Forms.TextBox();
             ((System.ComponentModel.ISupportInitialize)(this.dgvKetQua)).BeginInit();
             this.SuspendLayout();
             // 
@@ -129,25 +129,6 @@
             this.dgvKetQua.Size = new System.Drawing.Size(361, 404);
             this.dgvKetQua.TabIndex = 25;
             // 
-            // cmbMaHK
-            // 
-            this.cmbMaHK.DisplayMember = "MaHK";
-            this.cmbMaHK.FormattingEnabled = true;
-            this.cmbMaHK.Location = new System.Drawing.Point(190, 79);
-            this.cmbMaHK.Name = "cmbMaHK";
-            this.cmbMaHK.Size = new System.Drawing.Size(125, 21);
-            this.cmbMaHK.TabIndex = 24;
-            this.cmbMaHK.ValueMember = "MaHK";
-            // 
-            // lblMaHK
-            // 
-            this.lblMaHK.AutoSize = true;
-            this.lblMaHK.Location = new System.Drawing.Point(72, 82);
-            this.lblMaHK.Name = "lblMaHK";
-            this.lblMaHK.Size = new System.Drawing.Size(60, 13);
-            this.lblMaHK.TabIndex = 22;
-            this.lblMaHK.Text = "Mã Học Kỳ";
-            // 
             // lblTittle
             // 
             this.lblTittle.AutoSize = true;
@@ -219,29 +200,44 @@
             this.comboBox1.Size = new System.Drawing.Size(125, 21);
             this.comboBox1.TabIndex = 33;
             // 
-            // comboBox2
+            // lblMaHK
             // 
-            this.comboBox2.FormattingEnabled = true;
-            this.comboBox2.Location = new System.Drawing.Point(190, 176);
-            this.comboBox2.Name = "comboBox2";
-            this.comboBox2.Size = new System.Drawing.Size(125, 21);
-            this.comboBox2.TabIndex = 33;
+            this.lblMaHK.AutoSize = true;
+            this.lblMaHK.Location = new System.Drawing.Point(72, 82);
+            this.lblMaHK.Name = "lblMaHK";
+            this.lblMaHK.Size = new System.Drawing.Size(60, 13);
+            this.lblMaHK.TabIndex = 22;
+            this.lblMaHK.Text = "Mã Học Kỳ";
             // 
-            // comboBox3
+            // textBox3
             // 
-            this.comboBox3.FormattingEnabled = true;
-            this.comboBox3.Location = new System.Drawing.Point(190, 223);
-            this.comboBox3.Name = "comboBox3";
-            this.comboBox3.Size = new System.Drawing.Size(125, 21);
-            this.comboBox3.TabIndex = 33;
+            this.textBox3.Location = new System.Drawing.Point(190, 82);
+            this.textBox3.Name = "textBox3";
+            this.textBox3.Size = new System.Drawing.Size(125, 20);
+            this.textBox3.TabIndex = 34;
+            // 
+            // textBox4
+            // 
+            this.textBox4.Location = new System.Drawing.Point(190, 176);
+            this.textBox4.Name = "textBox4";
+            this.textBox4.Size = new System.Drawing.Size(125, 20);
+            this.textBox4.TabIndex = 34;
+            // 
+            // textBox5
+            // 
+            this.textBox5.Location = new System.Drawing.Point(190, 223);
+            this.textBox5.Name = "textBox5";
+            this.textBox5.Size = new System.Drawing.Size(125, 20);
+            this.textBox5.TabIndex = 34;
             // 
             // formQLD
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(791, 436);
-            this.Controls.Add(this.comboBox3);
-            this.Controls.Add(this.comboBox2);
+            this.Controls.Add(this.textBox5);
+            this.Controls.Add(this.textBox4);
+            this.Controls.Add(this.textBox3);
             this.Controls.Add(this.comboBox1);
             this.Controls.Add(this.textBox2);
             this.Controls.Add(this.textBox1);
@@ -257,7 +253,6 @@
             this.Controls.Add(this.btnLuu);
             this.Controls.Add(this.btnThoat);
             this.Controls.Add(this.dgvKetQua);
-            this.Controls.Add(this.cmbMaHK);
             this.Controls.Add(this.lblMaHK);
             this.Controls.Add(this.lblTittle);
             this.Name = "formQLD";
@@ -278,8 +273,6 @@
         private System.Windows.Forms.Button btnLuu;
         private System.Windows.Forms.Button btnThoat;
         private System.Windows.Forms.DataGridView dgvKetQua;
-        private System.Windows.Forms.ComboBox cmbMaHK;
-        private System.Windows.Forms.Label lblMaHK;
         private System.Windows.Forms.Label lblTittle;
         private System.Windows.Forms.Label lblDiemGK;
         private System.Windows.Forms.TextBox textBox1;
@@ -288,7 +281,9 @@
         private System.Windows.Forms.Label lblMaMH;
         private System.Windows.Forms.Label lblMaGV;
         private System.Windows.Forms.ComboBox comboBox1;
-        private System.Windows.Forms.ComboBox comboBox2;
-        private System.Windows.Forms.ComboBox comboBox3;
+        private System.Windows.Forms.Label lblMaHK;
+        private System.Windows.Forms.TextBox textBox3;
+        private System.Windows.Forms.TextBox textBox4;
+        private System.Windows.Forms.TextBox textBox5;
     }
 }

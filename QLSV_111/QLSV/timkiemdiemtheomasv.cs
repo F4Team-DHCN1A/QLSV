@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace QLSV
 {
-    public partial class Khoa : Form
+    public partial class timkiemdiemtheomasv : Form
     {
-        public Khoa()
+        public timkiemdiemtheomasv()
         {
             InitializeComponent();
         }

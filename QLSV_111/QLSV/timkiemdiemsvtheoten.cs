@@ -10,11 +10,21 @@ using System.Windows.Forms;
 
 namespace QLSV
 {
-    public partial class Hocky : Form
+    public partial class timkiemdiemsvtheoten : Form
     {
-        public Hocky()
+        public timkiemdiemsvtheoten()
         {
             InitializeComponent();
+        }
+
+        private void xemdiem_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void cmbMaHK_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

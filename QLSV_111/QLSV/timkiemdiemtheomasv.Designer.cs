@@ -1,6 +1,6 @@
 ﻿namespace QLSV
 {
-    partial class timkiemdiemsv
+    partial class timkiemdiemtheomasv
     {
         /// <summary>
         /// Required designer variable.
@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(timkiemdiemsv));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(timkiemdiemtheomasv));
             this.btnThoat = new System.Windows.Forms.Button();
             this.cmbMaMH = new System.Windows.Forms.ComboBox();
             this.dgvKetQua = new System.Windows.Forms.DataGridView();
@@ -93,9 +93,9 @@
             this.lblMaMH.AutoSize = true;
             this.lblMaMH.Location = new System.Drawing.Point(273, 110);
             this.lblMaMH.Name = "lblMaMH";
-            this.lblMaMH.Size = new System.Drawing.Size(69, 13);
+            this.lblMaMH.Size = new System.Drawing.Size(60, 13);
             this.lblMaMH.TabIndex = 10;
-            this.lblMaMH.Text = "Mã Môn Học";
+            this.lblMaMH.Text = "Mã Học Kỳ";
             // 
             // lblMaSV
             // 
@@ -111,11 +111,11 @@
             this.lblTittle.AutoSize = true;
             this.lblTittle.Font = new System.Drawing.Font("Times New Roman", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblTittle.ForeColor = System.Drawing.Color.Red;
-            this.lblTittle.Location = new System.Drawing.Point(34, 38);
+            this.lblTittle.Location = new System.Drawing.Point(122, 29);
             this.lblTittle.Name = "lblTittle";
-            this.lblTittle.Size = new System.Drawing.Size(535, 31);
+            this.lblTittle.Size = new System.Drawing.Size(408, 31);
             this.lblTittle.TabIndex = 9;
-            this.lblTittle.Text = "Tìm Kiếm Điểm Của Sinh Viên Trong Môn Học";
+            this.lblTittle.Text = "Tìm Kiếm Điểm Theo Mã Sinh Viên";
             // 
             // timkiemdiemsv
             // 

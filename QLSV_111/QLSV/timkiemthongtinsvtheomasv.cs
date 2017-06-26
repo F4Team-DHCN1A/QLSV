@@ -10,21 +10,11 @@ using System.Windows.Forms;
 
 namespace QLSV
 {
-    public partial class xemdiem : Form
+    public partial class timkiemthongtinsvtheomasv : Form
     {
-        public xemdiem()
+        public timkiemthongtinsvtheomasv()
         {
             InitializeComponent();
-        }
-
-        private void xemdiem_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        private void cmbMaHK_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
         }
     }
 }
