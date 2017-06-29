@@ -1,4 +1,0 @@
-E:\do an\QuanLySinhVien_MaNguonMo\QuanLySinhVien\QuanLySinhVien_DAL\bin\Debug\QuanLySinhVien_DAL.dll
-E:\do an\QuanLySinhVien_MaNguonMo\QuanLySinhVien\QuanLySinhVien_DAL\bin\Debug\QuanLySinhVien_DAL.pdb
-E:\do an\QuanLySinhVien_MaNguonMo\QuanLySinhVien\QuanLySinhVien_DAL\obj\Debug\QuanLySinhVien_DAL.dll
-E:\do an\QuanLySinhVien_MaNguonMo\QuanLySinhVien\QuanLySinhVien_DAL\obj\Debug\QuanLySinhVien_DAL.pdb
