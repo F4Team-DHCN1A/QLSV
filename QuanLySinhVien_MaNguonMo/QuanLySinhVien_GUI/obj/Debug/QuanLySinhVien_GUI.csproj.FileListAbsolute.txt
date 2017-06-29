@@ -1,0 +1,26 @@
+E:\do an\QuanLySinhVien_MaNguonMo\QuanLySinhVien\QuanLySinhVien_GUI\bin\Debug\QuanLySinhVien_GUI.exe.config
+C:\Users\MINHTHUAN_IT\Desktop\QuanLySinhVien_MaNguonMo\QuanLySinhVien\QuanLySinhVien_GUI\bin\Debug\QuanLySinhVien_GUI.exe.config
+C:\Users\MINHTHUAN_IT\Desktop\QLSV_111\QuanLySinhVien\QuanLySinhVien_GUI\bin\Debug\QuanLySinhVien_GUI.exe.config
+C:\Users\MINHTHUAN_IT\Desktop\QuanLySinhVien\QuanLySinhVien_GUI\bin\Debug\QuanLySinhVien_GUI.exe.config
+E:\Git\QLSV\QLSV_111\QuanLySinhVien_GUI\bin\Debug\QuanLySinhVien_GUI.exe.config
+E:\Git\QLSV\QLSV_111\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.csprojResolveAssemblyReference.cache
+E:\Git\QLSV\QLSV_111\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.formchinh.resources
+E:\Git\QLSV\QLSV_111\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.formsinhvien.resources
+E:\Git\QLSV\QLSV_111\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.indanhsachsinhvientheokhoa.resources
+E:\Git\QLSV\QLSV_111\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.indanhsachsinhvientheolop.resources
+E:\Git\QLSV\QLSV_111\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.timkiemdiemsinhvientheomasv.resources
+E:\Git\QLSV\QLSV_111\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.timkiemdiemsinhvientheoten.resources
+E:\Git\QLSV\QLSV_111\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.indiemsinhvientheolop.resources
+E:\Git\QLSV\QLSV_111\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.Properties.Resources.resources
+E:\Git\QLSV\QLSV_111\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.quanlydiem.resources
+E:\Git\QLSV\QLSV_111\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.timkiemthongtinsinhvientheomasv.resources
+E:\Git\QLSV\QLSV_111\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.timkiemthongtinsinhvientheoten.resources
+E:\Git\QLSV\QLSV_111\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.csproj.GenerateResource.Cache
+E:\Git\QLSV\QLSV_111\QuanLySinhVien_GUI\bin\Debug\QuanLySinhVien_GUI.exe
+E:\Git\QLSV\QLSV_111\QuanLySinhVien_GUI\bin\Debug\QuanLySinhVien_GUI.pdb
+E:\Git\QLSV\QLSV_111\QuanLySinhVien_GUI\bin\Debug\QuanLySinhVien_BLL.dll
+E:\Git\QLSV\QLSV_111\QuanLySinhVien_GUI\bin\Debug\QuanLySinhVien_DAL.dll
+E:\Git\QLSV\QLSV_111\QuanLySinhVien_GUI\bin\Debug\QuanLySinhVien_BLL.pdb
+E:\Git\QLSV\QLSV_111\QuanLySinhVien_GUI\bin\Debug\QuanLySinhVien_DAL.pdb
+E:\Git\QLSV\QLSV_111\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.exe
+E:\Git\QLSV\QLSV_111\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.pdb

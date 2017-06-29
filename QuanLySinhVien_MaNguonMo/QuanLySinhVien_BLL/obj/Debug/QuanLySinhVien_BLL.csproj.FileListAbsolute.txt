@@ -1,0 +1,10 @@
+E:\do an\QuanLySinhVien_MaNguonMo\QuanLySinhVien\QuanLySinhVien_BLL\obj\Debug\QuanLySinhVien_BLL.csprojResolveAssemblyReference.cache
+E:\do an\QuanLySinhVien_MaNguonMo\QuanLySinhVien\QuanLySinhVien_BLL\bin\Debug\QuanLySinhVien_BLL.dll
+E:\do an\QuanLySinhVien_MaNguonMo\QuanLySinhVien\QuanLySinhVien_BLL\bin\Debug\QuanLySinhVien_BLL.pdb
+E:\do an\QuanLySinhVien_MaNguonMo\QuanLySinhVien\QuanLySinhVien_BLL\obj\Debug\QuanLySinhVien_BLL.dll
+E:\do an\QuanLySinhVien_MaNguonMo\QuanLySinhVien\QuanLySinhVien_BLL\obj\Debug\QuanLySinhVien_BLL.pdb
+E:\Git\QLSV\QLSV_111\QuanLySinhVien_BLL\bin\Debug\QuanLySinhVien_BLL.dll
+E:\Git\QLSV\QLSV_111\QuanLySinhVien_BLL\bin\Debug\QuanLySinhVien_BLL.pdb
+E:\Git\QLSV\QLSV_111\QuanLySinhVien_BLL\obj\Debug\QuanLySinhVien_BLL.csprojResolveAssemblyReference.cache
+E:\Git\QLSV\QLSV_111\QuanLySinhVien_BLL\obj\Debug\QuanLySinhVien_BLL.dll
+E:\Git\QLSV\QLSV_111\QuanLySinhVien_BLL\obj\Debug\QuanLySinhVien_BLL.pdb
