@@ -1,0 +1,4 @@
+E:\do an\QuanLySinhVien_MaNguonMo\QuanLySinhVien\QuanLySinhVien_GUI\bin\Debug\QuanLySinhVien_GUI.exe.config
+C:\Users\MINHTHUAN_IT\Desktop\QuanLySinhVien_MaNguonMo\QuanLySinhVien\QuanLySinhVien_GUI\bin\Debug\QuanLySinhVien_GUI.exe.config
+C:\Users\MINHTHUAN_IT\Desktop\QLSV_111\QuanLySinhVien\QuanLySinhVien_GUI\bin\Debug\QuanLySinhVien_GUI.exe.config
+C:\Users\MINHTHUAN_IT\Desktop\QuanLySinhVien\QuanLySinhVien_GUI\bin\Debug\QuanLySinhVien_GUI.exe.config

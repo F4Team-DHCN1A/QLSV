@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5D369346-AED9-421D-A68F-7B8AE9451B67}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>QuanLySinhVien_GUI</RootNamespace>
+    <AssemblyName>QuanLySinhVien_GUI</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="formchinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formchinh.Designer.cs">
+      <DependentUpon>formchinh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formsinhvien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formsinhvien.Designer.cs">
+      <DependentUpon>formsinhvien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="indanhsachsinhvientheokhoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="indanhsachsinhvientheokhoa.Designer.cs">
+      <DependentUpon>indanhsachsinhvientheokhoa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="indanhsachsinhvientheolop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="indanhsachsinhvientheolop.Designer.cs">
+      <DependentUpon>indanhsachsinhvientheolop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="timkiemdiemsinhvientheomasv.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="timkiemdiemsinhvientheomasv.Designer.cs">
+      <DependentUpon>timkiemdiemsinhvientheomasv.cs</DependentUpon>
+    </Compile>
+    <Compile Include="timkiemdiemsinhvientheoten.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="timkiemdiemsinhvientheoten.Designer.cs">
+      <DependentUpon>timkiemdiemsinhvientheoten.cs</DependentUpon>
+    </Compile>
+    <Compile Include="indiemsinhvientheolop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="indiemsinhvientheolop.Designer.cs">
+      <DependentUpon>indiemsinhvientheolop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="quanlydiem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="quanlydiem.Designer.cs">
+      <DependentUpon>quanlydiem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="timkiemthongtinsinhvientheomasv.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="timkiemthongtinsinhvientheomasv.Designer.cs">
+      <DependentUpon>timkiemthongtinsinhvientheomasv.cs</DependentUpon>
+    </Compile>
+    <Compile Include="timkiemthongtinsinhvientheoten.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="timkiemthongtinsinhvientheoten.Designer.cs">
+      <DependentUpon>timkiemthongtinsinhvientheoten.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="formchinh.resx">
+      <DependentUpon>formchinh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formsinhvien.resx">
+      <DependentUpon>formsinhvien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="indanhsachsinhvientheokhoa.resx">
+      <DependentUpon>indanhsachsinhvientheokhoa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="indanhsachsinhvientheolop.resx">
+      <DependentUpon>indanhsachsinhvientheolop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="timkiemdiemsinhvientheomasv.resx">
+      <DependentUpon>timkiemdiemsinhvientheomasv.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="timkiemdiemsinhvientheoten.resx">
+      <DependentUpon>timkiemdiemsinhvientheoten.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="indiemsinhvientheolop.resx">
+      <DependentUpon>indiemsinhvientheolop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="quanlydiem.resx">
+      <DependentUpon>quanlydiem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="timkiemthongtinsinhvientheomasv.resx">
+      <DependentUpon>timkiemthongtinsinhvientheomasv.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="timkiemthongtinsinhvientheoten.resx">
+      <DependentUpon>timkiemthongtinsinhvientheoten.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\QuanLySinhVien_BLL\QuanLySinhVien_BLL.csproj">
+      <Project>{f6ad33f2-b812-4013-8fda-0cbfb5ded544}</Project>
+      <Name>QuanLySinhVien_BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\QuanLySinhVien_DAL\QuanLySinhVien_DAL.csproj">
+      <Project>{18ffe59e-4e85-45ed-9f6d-7a8d0fcea2d1}</Project>
+      <Name>QuanLySinhVien_DAL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
