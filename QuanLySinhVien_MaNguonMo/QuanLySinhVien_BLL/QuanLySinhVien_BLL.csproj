@@ -48,10 +48,6 @@
       <Project>{18ffe59e-4e85-45ed-9f6d-7a8d0fcea2d1}</Project>
       <Name>QuanLySinhVien_DAL</Name>
     </ProjectReference>
-    <ProjectReference Include="..\QuanLySinhVien_DTO\QuanLySinhVien_DTO.csproj">
-      <Project>{cefd9fce-24ef-4ce5-bb41-8a9ab975de59}</Project>
-      <Name>QuanLySinhVien_DTO</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

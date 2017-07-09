@@ -8,3 +8,10 @@ E:\Git\QLSV\QLSV_111\QuanLySinhVien_BLL\bin\Debug\QuanLySinhVien_BLL.pdb
 E:\Git\QLSV\QLSV_111\QuanLySinhVien_BLL\obj\Debug\QuanLySinhVien_BLL.csprojResolveAssemblyReference.cache
 E:\Git\QLSV\QLSV_111\QuanLySinhVien_BLL\obj\Debug\QuanLySinhVien_BLL.dll
 E:\Git\QLSV\QLSV_111\QuanLySinhVien_BLL\obj\Debug\QuanLySinhVien_BLL.pdb
+F:\Study\4305 - PTPM ma nguon mo - Mr Tho\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_BLL\bin\Debug\QuanLySinhVien_BLL.dll
+F:\Study\4305 - PTPM ma nguon mo - Mr Tho\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_BLL\bin\Debug\QuanLySinhVien_BLL.pdb
+F:\Study\4305 - PTPM ma nguon mo - Mr Tho\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_BLL\bin\Debug\QuanLySinhVien_DAL.dll
+F:\Study\4305 - PTPM ma nguon mo - Mr Tho\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_BLL\bin\Debug\QuanLySinhVien_DAL.pdb
+F:\Study\4305 - PTPM ma nguon mo - Mr Tho\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_BLL\obj\Debug\QuanLySinhVien_BLL.csprojResolveAssemblyReference.cache
+F:\Study\4305 - PTPM ma nguon mo - Mr Tho\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_BLL\obj\Debug\QuanLySinhVien_BLL.dll
+F:\Study\4305 - PTPM ma nguon mo - Mr Tho\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_BLL\obj\Debug\QuanLySinhVien_BLL.pdb

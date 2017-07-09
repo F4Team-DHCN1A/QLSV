@@ -45,88 +45,97 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="formchinh.cs">
+    <Compile Include="frmMonHoc.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="formchinh.Designer.cs">
-      <DependentUpon>formchinh.cs</DependentUpon>
+    <Compile Include="frmMonHoc.Designer.cs">
+      <DependentUpon>frmMonHoc.cs</DependentUpon>
     </Compile>
-    <Compile Include="formsinhvien.cs">
+    <Compile Include="frmProMain.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="formsinhvien.Designer.cs">
-      <DependentUpon>formsinhvien.cs</DependentUpon>
+    <Compile Include="frmProMain.Designer.cs">
+      <DependentUpon>frmProMain.cs</DependentUpon>
     </Compile>
-    <Compile Include="indanhsachsinhvientheokhoa.cs">
+    <Compile Include="frmSinhVien.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="indanhsachsinhvientheokhoa.Designer.cs">
-      <DependentUpon>indanhsachsinhvientheokhoa.cs</DependentUpon>
+    <Compile Include="frmSinhVien.Designer.cs">
+      <DependentUpon>frmSinhVien.cs</DependentUpon>
     </Compile>
-    <Compile Include="indanhsachsinhvientheolop.cs">
+    <Compile Include="frmindanhsachsinhvientheokhoa.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="indanhsachsinhvientheolop.Designer.cs">
-      <DependentUpon>indanhsachsinhvientheolop.cs</DependentUpon>
+    <Compile Include="frmindanhsachsinhvientheokhoa.Designer.cs">
+      <DependentUpon>frmindanhsachsinhvientheokhoa.cs</DependentUpon>
     </Compile>
-    <Compile Include="timkiemdiemsinhvientheomasv.cs">
+    <Compile Include="frmindanhsachsinhvientheolop.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="timkiemdiemsinhvientheomasv.Designer.cs">
-      <DependentUpon>timkiemdiemsinhvientheomasv.cs</DependentUpon>
+    <Compile Include="frmindanhsachsinhvientheolop.Designer.cs">
+      <DependentUpon>frmindanhsachsinhvientheolop.cs</DependentUpon>
     </Compile>
-    <Compile Include="timkiemdiemsinhvientheoten.cs">
+    <Compile Include="frmtimkiemdiemsinhvientheomasv.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="timkiemdiemsinhvientheoten.Designer.cs">
-      <DependentUpon>timkiemdiemsinhvientheoten.cs</DependentUpon>
+    <Compile Include="frmtimkiemdiemsinhvientheomasv.Designer.cs">
+      <DependentUpon>frmtimkiemdiemsinhvientheomasv.cs</DependentUpon>
     </Compile>
-    <Compile Include="indiemsinhvientheolop.cs">
+    <Compile Include="frmtimkiemdiemsinhvientheoten.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="indiemsinhvientheolop.Designer.cs">
-      <DependentUpon>indiemsinhvientheolop.cs</DependentUpon>
+    <Compile Include="frmtimkiemdiemsinhvientheoten.Designer.cs">
+      <DependentUpon>frmtimkiemdiemsinhvientheoten.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmindiemsinhvientheolop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmindiemsinhvientheolop.Designer.cs">
+      <DependentUpon>frmindiemsinhvientheolop.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="quanlydiem.cs">
+    <Compile Include="frmquanlydiem.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="quanlydiem.Designer.cs">
-      <DependentUpon>quanlydiem.cs</DependentUpon>
+    <Compile Include="frmquanlydiem.Designer.cs">
+      <DependentUpon>frmquanlydiem.cs</DependentUpon>
     </Compile>
-    <Compile Include="timkiemthongtinsinhvientheomasv.cs">
+    <Compile Include="frmtimkiemthongtinsinhvientheomasv.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="timkiemthongtinsinhvientheomasv.Designer.cs">
-      <DependentUpon>timkiemthongtinsinhvientheomasv.cs</DependentUpon>
+    <Compile Include="frmtimkiemthongtinsinhvientheomasv.Designer.cs">
+      <DependentUpon>frmtimkiemthongtinsinhvientheomasv.cs</DependentUpon>
     </Compile>
-    <Compile Include="timkiemthongtinsinhvientheoten.cs">
+    <Compile Include="frmtimkiemthongtinsinhvientheoten.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="timkiemthongtinsinhvientheoten.Designer.cs">
-      <DependentUpon>timkiemthongtinsinhvientheoten.cs</DependentUpon>
+    <Compile Include="frmtimkiemthongtinsinhvientheoten.Designer.cs">
+      <DependentUpon>frmtimkiemthongtinsinhvientheoten.cs</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="formchinh.resx">
-      <DependentUpon>formchinh.cs</DependentUpon>
+    <EmbeddedResource Include="frmMonHoc.resx">
+      <DependentUpon>frmMonHoc.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="formsinhvien.resx">
-      <DependentUpon>formsinhvien.cs</DependentUpon>
+    <EmbeddedResource Include="frmProMain.resx">
+      <DependentUpon>frmProMain.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="indanhsachsinhvientheokhoa.resx">
-      <DependentUpon>indanhsachsinhvientheokhoa.cs</DependentUpon>
+    <EmbeddedResource Include="frmSinhVien.resx">
+      <DependentUpon>frmSinhVien.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="indanhsachsinhvientheolop.resx">
-      <DependentUpon>indanhsachsinhvientheolop.cs</DependentUpon>
+    <EmbeddedResource Include="frmindanhsachsinhvientheokhoa.resx">
+      <DependentUpon>frmindanhsachsinhvientheokhoa.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="timkiemdiemsinhvientheomasv.resx">
-      <DependentUpon>timkiemdiemsinhvientheomasv.cs</DependentUpon>
+    <EmbeddedResource Include="frmindanhsachsinhvientheolop.resx">
+      <DependentUpon>frmindanhsachsinhvientheolop.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="timkiemdiemsinhvientheoten.resx">
-      <DependentUpon>timkiemdiemsinhvientheoten.cs</DependentUpon>
+    <EmbeddedResource Include="frmtimkiemdiemsinhvientheomasv.resx">
+      <DependentUpon>frmtimkiemdiemsinhvientheomasv.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="indiemsinhvientheolop.resx">
-      <DependentUpon>indiemsinhvientheolop.cs</DependentUpon>
+    <EmbeddedResource Include="frmtimkiemdiemsinhvientheoten.resx">
+      <DependentUpon>frmtimkiemdiemsinhvientheoten.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmindiemsinhvientheolop.resx">
+      <DependentUpon>frmindiemsinhvientheolop.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -137,14 +146,14 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="quanlydiem.resx">
-      <DependentUpon>quanlydiem.cs</DependentUpon>
+    <EmbeddedResource Include="frmquanlydiem.resx">
+      <DependentUpon>frmquanlydiem.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="timkiemthongtinsinhvientheomasv.resx">
-      <DependentUpon>timkiemthongtinsinhvientheomasv.cs</DependentUpon>
+    <EmbeddedResource Include="frmtimkiemthongtinsinhvientheomasv.resx">
+      <DependentUpon>frmtimkiemthongtinsinhvientheomasv.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="timkiemthongtinsinhvientheoten.resx">
-      <DependentUpon>timkiemthongtinsinhvientheoten.cs</DependentUpon>
+    <EmbeddedResource Include="frmtimkiemthongtinsinhvientheoten.resx">
+      <DependentUpon>frmtimkiemthongtinsinhvientheoten.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
