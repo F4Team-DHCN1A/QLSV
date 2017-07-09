@@ -64,5 +64,17 @@ namespace QuanLySinhVien_GUI
             frmSinhVien f = new frmSinhVien();
             f.Show();
         }
+
+        private void quảnLýKhoaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmKhoa f = new frmKhoa();
+            f.Show();
+        }
+
+        private void quảnLýLớpToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmLop f = new frmLop();
+            f.Show();
+        }
     }
 }

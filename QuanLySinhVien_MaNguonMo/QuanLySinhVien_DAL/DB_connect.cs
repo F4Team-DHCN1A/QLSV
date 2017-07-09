@@ -10,7 +10,7 @@ namespace QuanLySinhVien_DAL
 {
     public class DB_connect
     {
-        public static string strcon = @"Data Source=TUNGTENG69\SQLEXPRESS;Initial Catalog=QLSV;Integrated Security=True";
+        public static string strcon = @"Data Source=TRIEULAOGIA;Initial Catalog=QLSV;Integrated Security=True";
         SqlConnection con = new SqlConnection(strcon);
     }
 }

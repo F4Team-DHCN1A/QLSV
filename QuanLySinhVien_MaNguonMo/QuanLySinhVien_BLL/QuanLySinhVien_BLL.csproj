@@ -40,6 +40,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Diem.cs" />
+    <Compile Include="khoa.cs" />
+    <Compile Include="Lop.cs" />
     <Compile Include="sinhvien.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
