@@ -72,3 +72,5 @@ C:\Users\trieu\Desktop\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debu
 C:\Users\trieu\Desktop\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.frmtimkiemthongtinsinhvientheoten.resources
 C:\Users\trieu\Desktop\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.csproj.GenerateResource.Cache
 C:\Users\trieu\Desktop\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.frmLop.resources
+F:\Study\4305 - PTPM ma nguon mo - Mr Tho\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.frmKhoa.resources
+F:\Study\4305 - PTPM ma nguon mo - Mr Tho\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.frmLop.resources
