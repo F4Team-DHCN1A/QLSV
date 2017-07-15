@@ -22,3 +22,10 @@ C:\Users\trieu\Desktop\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_BLL\bin\Debu
 C:\Users\trieu\Desktop\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_BLL\obj\Debug\QuanLySinhVien_BLL.csprojResolveAssemblyReference.cache
 C:\Users\trieu\Desktop\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_BLL\obj\Debug\QuanLySinhVien_BLL.dll
 C:\Users\trieu\Desktop\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_BLL\obj\Debug\QuanLySinhVien_BLL.pdb
+C:\Users\MINHTHUAN_IT\Desktop\QuanLySinhVien_MaNguonMo\QuanLySinhVien_BLL\bin\Debug\QuanLySinhVien_BLL.dll
+C:\Users\MINHTHUAN_IT\Desktop\QuanLySinhVien_MaNguonMo\QuanLySinhVien_BLL\bin\Debug\QuanLySinhVien_BLL.pdb
+C:\Users\MINHTHUAN_IT\Desktop\QuanLySinhVien_MaNguonMo\QuanLySinhVien_BLL\bin\Debug\QuanLySinhVien_DAL.dll
+C:\Users\MINHTHUAN_IT\Desktop\QuanLySinhVien_MaNguonMo\QuanLySinhVien_BLL\bin\Debug\QuanLySinhVien_DAL.pdb
+C:\Users\MINHTHUAN_IT\Desktop\QuanLySinhVien_MaNguonMo\QuanLySinhVien_BLL\obj\Debug\QuanLySinhVien_BLL.csprojResolveAssemblyReference.cache
+C:\Users\MINHTHUAN_IT\Desktop\QuanLySinhVien_MaNguonMo\QuanLySinhVien_BLL\obj\Debug\QuanLySinhVien_BLL.dll
+C:\Users\MINHTHUAN_IT\Desktop\QuanLySinhVien_MaNguonMo\QuanLySinhVien_BLL\obj\Debug\QuanLySinhVien_BLL.pdb
