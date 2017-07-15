@@ -2,7 +2,7 @@
 
 Đây là hướng dẫn sử dụng phần mềm cho người dùng
 
-Để sử dụng phần mềm, bước đầu tiên bạn phải tạo một cơ sở dữ liệu (Sử dụng SQL Server) và dùng [SQL Query](https://github.com/F4Team-DHCN1A/QLSV/blob/master/qlsv.sql) này để tạo các table và các proceduce cần thiết cho phần mềm.
+**_Để sử dụng phần mềm, bước đầu tiên bạn phải tạo một cơ sở dữ liệu (Sử dụng SQL Server) và dùng [SQL Query](https://github.com/F4Team-DHCN1A/QLSV/blob/master/qlsv.sql) này để tạo các table và các proceduce cần thiết cho phần mềm._**
 
 ## 1) Giao diện chính
 ### Khi bạn mở phần mềm sẽ đi tới giao diện chính của chương trình
