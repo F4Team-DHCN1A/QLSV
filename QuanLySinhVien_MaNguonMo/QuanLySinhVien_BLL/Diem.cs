@@ -10,14 +10,14 @@ namespace QuanLySinhVien_BLL
 {
     public static class Diem
     {
-        public static void Nhap_Diem(string masv, string mamh, float diemcc, float diemkt, float diemgk,float diemthi,string magv, string mahk)
+        public static void Nhap_Diem(string masv, string mamh, float diemcc, float diemkt, float diemgk, float diemthi, string magv, string mahk)
         {
-            
-            float diemtb = (float) (diemcc +  diemkt * 0.2 +  diemgk * 0.3 +  diemthi * 0.5);
+            float diemtb = (float)(diemcc + diemkt + diemgk * 3 + diemthi * 5) / 10;
             SqlConnection con = new SqlConnection(QuanLySinhVien_DAL.DB_connect.strcon);
             con.Open();
-            SqlCommand cmd = new SqlCommand("insert into DIEM values ('"+masv+"','"+mamh +"','"+diemcc +"','"+diemkt+"','"+diemgk+"','"+diemthi+"','"+diemtb+"','"+magv+"','"+mahk+"')",con);
+            SqlCommand cmd = new SqlCommand("insert into DIEM values ('" + masv + "','" + mamh + "','" + diemcc + "','" + diemkt + "','" + diemgk + "','" + diemthi + "','" + diemtb + "','" + magv + "','" + mahk + "')", con);
             cmd.ExecuteNonQuery();
+            con.Close();
         }
     }
 }

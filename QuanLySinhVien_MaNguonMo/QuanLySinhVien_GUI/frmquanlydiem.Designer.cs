@@ -186,6 +186,7 @@
             this.btnLuu.TabIndex = 57;
             this.btnLuu.Text = "      Lưu";
             this.btnLuu.UseVisualStyleBackColor = true;
+            this.btnLuu.Click += new System.EventHandler(this.btnLuu_Click);
             // 
             // btnThoat
             // 
@@ -197,6 +198,7 @@
             this.btnThoat.TabIndex = 56;
             this.btnThoat.Text = "      Thoát";
             this.btnThoat.UseVisualStyleBackColor = true;
+            this.btnThoat.Click += new System.EventHandler(this.btnThoat_Click);
             // 
             // dgvKetQua
             // 
@@ -208,6 +210,7 @@
             this.dgvKetQua.ReadOnly = true;
             this.dgvKetQua.Size = new System.Drawing.Size(802, 405);
             this.dgvKetQua.TabIndex = 55;
+            this.dgvKetQua.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvKetQua_CellContentClick);
             // 
             // lblTongSo
             // 
@@ -267,7 +270,7 @@
             this.Controls.Add(this.lblTittle);
             this.Name = "frmquanlydiem";
             this.Text = "QUẢN LÝ ĐIỂM";
-            this.Load += new System.EventHandler(this.quanlydiem_Load);
+            this.Load += new System.EventHandler(this.frmquanlydiem_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgvKetQua)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

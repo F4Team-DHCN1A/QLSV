@@ -16,5 +16,21 @@ namespace QuanLySinhVien_GUI
         {
             InitializeComponent();
         }
+        int dem = 0;
+
+        private void txtMaSV_TextChanged(object sender, EventArgs e)
+        {
+            QuanLySinhVien_BLL.sinhvien.timSV_Ma(txtMaSV.Text);
+            dgvKetQua.DataSource = QuanLySinhVien_BLL.sinhvien.timSV_Ma(txtMaSV.Text);
+
+            dem = dgvKetQua.RowCount;
+            lblTongSo.Text = "Tổng Số: " + dem.ToString();
+        }
+
+        private void btnThoat_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
     }
 }

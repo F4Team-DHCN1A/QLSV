@@ -76,5 +76,10 @@ namespace QuanLySinhVien_GUI
             frmLop f = new frmLop();
             f.Show();
         }
+
+        private void thoátToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }

@@ -48,6 +48,7 @@
             this.btnThoat.TabIndex = 46;
             this.btnThoat.Text = "      Thoát";
             this.btnThoat.UseVisualStyleBackColor = true;
+            this.btnThoat.Click += new System.EventHandler(this.btnThoat_Click);
             // 
             // dgvKetQua
             // 
@@ -66,6 +67,7 @@
             this.txtTenSV.Name = "txtTenSV";
             this.txtTenSV.Size = new System.Drawing.Size(125, 20);
             this.txtTenSV.TabIndex = 44;
+            this.txtTenSV.TextChanged += new System.EventHandler(this.txtTenSV_TextChanged);
             // 
             // lblTongSo
             // 
