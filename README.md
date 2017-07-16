@@ -43,12 +43,10 @@ Vui lòng xem tại [MIT License](https://github.com/F4Team-DHCN1A/QLSV/blob/mas
 ## Chuẩn lập trình
 ## Tài liệu cho người dùng cuối
 * Để xem tài liệu cho người dùng cuối, Vui lòng tham khảo [tại đây](https://github.com/F4Team-DHCN1A/QLSV/blob/master/Document/T%C3%A0i%20li%E1%BB%87u%20cho%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng%20cu%E1%BB%91i.md)
-> T/g: Nguyễn Duy Thanh Tùng
 ## Tài liệu cho nhà phát triển
 * Để xem tài liệu cho nhà phát triển, Vui lòng tham khảo [tại đây]()
 ## Tài liệu thiết kế
 * Để xem tài liệu thiết kế, Vui lòng tham khảo [tại đây](https://github.com/F4Team-DHCN1A/QLSV/blob/master/Document/T%C3%A0i%20li%E1%BB%87u%20thi%E1%BA%BFt%20k%E1%BA%BF.md)
-> T/g: Nguyễn Duy Thanh Tùng
 ## Danh sách lỗi
 `Phần mềm chưa được hoàn thiện, huy vọng các bạn đóng góp ý kiến hay update danh sách các lỗi` [tại đây](https://github.com/F4Team-DHCN1A/QLSV/issues) `để nhóm hay các nhà phát triển khác có thể hoàn thiện sản phẩm hơn.`
 > T/g: Lê Văn Cường
@@ -68,5 +66,3 @@ Nhằm tạo ra phần mềm đầy đủ, hoàn thiện và có chất lượng
 > T/g: Triệu Nam Dương
 ## Lời cảm ơn
 Để hoàn thành tốt đề tài này chúng em xin cảm ơn thầy **Mai Cường Thọ** – *giảng viên khoa CNTT Trường Đại học Nha Trang* cùng các **thầy cô** *bộ môn Kỹ thuật phần mềm* đã hướng dẫn tạo điều kiện cho chúng em nghiên cứu và hoàn thành đề tài. Tuy nhiên do mới làm quen với hệ thống quản lý phiên bản phân tán và kiến thức C# còn hạn chế nên đồ án môn học của chúng em còn nhiều thiếu sót, chúng em mong nhận được sự góp ý từ thầy **Mai Cường Thọ** và các thầy cô giáo bộ môn để chúng em có thể hoàn thiện đồ án một cách tốt nhất.
-
-> T/g: Triệu Nam Dương
