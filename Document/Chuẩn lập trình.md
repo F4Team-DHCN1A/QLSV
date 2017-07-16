@@ -82,6 +82,45 @@ Nếu bạn đã dùng user làm tên biến chỉ khách hàng, thì đừng s�
         
 
 Tránh những kí tự đặt phía trước như tiền tố m_ hay thêm kiểu dữ liệu vào đầu tên biến. Tôi cảm thấy khá dư, không cần thiết lắm. 
-       Trong lúc làm việc nhóm, tôi cũng loại bỏ những tiền tố và team tôi không phàn nàn gì lắm. Và tôi cũng không thấy ai trong nhóm dùng thế.     
+       Trong lúc làm việc nhóm, tôi cũng loại bỏ những tiền tố và team tôi không phàn nàn gì lắm. Và tôi cũng không thấy ai trong nhóm dùng thế.
+*	Tên Form
+ -  Tên lớp phải là danh từ hoặc cụm danh từ
+ -  Sử dụng cách viết hoa của Pascal 
+	-  Bắt đầu bằng tiếp đầu ngữ: “ frm “
+*	Tên control trên form
+ -  Trên control nên được ngắn gọn, mô tả chức năng và công dụng của control đó trên form
+ -  Sử dụng cách viết hoa của Pascal 
+ -  Bắt đầu bằng tiếp đầu ngữ sau đây:
+	
+<table style="width:35%;">
+            <tr>
+                <td>Button 	</td>
+                <td>btn</td>
+            </tr>
+            <tr>
+                <td>ComboBox </td>
+                <td>cbo</td>
+            </tr>
+            <tr>
+                <td >Label</td>
+                <td >lbl</td>
+            </tr>
+            <tr>
+                <td>TextBox</td>
+                <td>txt</td>
+            </tr>
+            <tr>
+                <td>DataGridView</td>
+                <td>dgv</td>
+            </tr>
+            <tr>
+                <td>RadioButton</td>
+                <td>rad</td>
+            </tr>
+            <tr>
+                <td>GroupBox</td>
+                <td>grp</td>
+            </tr>
+        </table>
 
 > T/g: Nguyễn Minh Thuận | Email: sktthuan111@gmail.com
