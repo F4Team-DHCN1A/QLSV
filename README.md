@@ -1,6 +1,13 @@
 # PHẦN MỀM QUẢN LÝ SINH VIÊN
 ![a](https://user-images.githubusercontent.com/27596661/28235914-d6ff2b0a-6942-11e7-8c61-2013b95c1303.PNG)
 ## Lời mở đầu
+Ngày nay với sự phát triển vượt bậc của công nghệ thông tin, công ty, tổ chức hay các cá nhân đều muốn có những phần mềm hỗ trợ trong việc quản lý của mình. Phần mềm `Quản lý sinh viên` ra đời nhằm khắc phục những khó khăn và hỗ trợ bộ phận quản lý sinh viên khi số lượng công việc tăng cao, linh hoạt hơn việc dùng sổ sách để quản lý.
+Phần mềm được phát triển trên ngôn ngữ lập trình C# và hệ quản trị cơ sở dữ liệu SQL server.
+## Thành viên nhóm thực hiện
+1) Nguyễn Duy Thanh Tùng | MSSV: 14ĐC095 | SĐT: 01653841567
+2) Lê Văn Cường | MSSV: 14ĐC110 | SĐT: 01652096045
+3) Triệu Nam Dương | MSSV: 14ĐC017  | SĐT: 01636630894
+4) Nguyễn Minh Thuận | MSSV: 14ĐC084 | SĐT: 01695183671
 ## Giấy Phép
 Vui lòng xem tại [MIT License](https://github.com/F4Team-DHCN1A/QLSV/blob/master/LICENSE) Copyright © 2017 F4 Team - Telecommunications University
 
@@ -48,7 +55,7 @@ Vui lòng xem tại [MIT License](https://github.com/F4Team-DHCN1A/QLSV/blob/mas
 ## Tài liệu thiết kế
 * Để xem tài liệu thiết kế, Vui lòng tham khảo [tại đây](https://github.com/F4Team-DHCN1A/QLSV/blob/master/Document/T%C3%A0i%20li%E1%BB%87u%20thi%E1%BA%BFt%20k%E1%BA%BF.md)
 ## Danh sách lỗi
-`Phần mềm chưa được hoàn thiện, huy vọng các bạn đóng góp ý kiến hay update danh sách các lỗi` [tại đây](https://github.com/F4Team-DHCN1A/QLSV/issues) `để nhóm hay các nhà phát triển khác có thể hoàn thiện sản phẩm hơn.`
+Phần mềm chưa được hoàn thiện, huy vọng các bạn đóng góp ý kiến hay update danh sách các lỗi [tại đây](https://github.com/F4Team-DHCN1A/QLSV/issues) để nhóm hay các nhà phát triển khác có thể hoàn thiện sản phẩm hơn.
 > T/g: Lê Văn Cường
 ## Cách lấy mã và đóng góp mã nguồn
 * Các bạn [click vào đây](https://github.com/F4Team-DHCN1A/QLSV/archive/master.zip) để Download mã nguồn,
