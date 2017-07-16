@@ -79,3 +79,4 @@
 - DiemTB: Điểm trung bình của sinh viên
 - MaGV: Mã của giảng viên phụ trách môn học cần nhập điểm
 - MaHK: Mã của học kỳ đang học
+> T/g: Nguyễn Duy Thanh Tùng | Email: nguyenduythanhtung@gmail.com
