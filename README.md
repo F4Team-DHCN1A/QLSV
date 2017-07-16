@@ -48,10 +48,11 @@ Vui lòng xem tại [MIT License](https://github.com/F4Team-DHCN1A/QLSV/blob/mas
 * SQL Server được tối ưu để có thể chạy trên môi trường cơ sở dữ liệu rất lớn (Very Large Database Environment) lên đến Tera-Byte và có thể phục vụ cùng lúc cho hàng ngàn user. SQL Server có thể kết hợp “ăn ý” với các server khác như Microsoft Internet Information Server (IIS), E-Commerce Server, Proxy Server….
 > T/g: Nguyễn Minh Thuận
 ## Chuẩn lập trình
+* Để xem Chuẩn lập trình, Vui lòng tham khảo [tại đây](https://github.com/F4Team-DHCN1A/QLSV/blob/master/Document/Chu%E1%BA%A9n%20l%E1%BA%ADp%20tr%C3%ACnh.md)
 ## Tài liệu cho người dùng cuối
 * Để xem tài liệu cho người dùng cuối, Vui lòng tham khảo [tại đây](https://github.com/F4Team-DHCN1A/QLSV/blob/master/Document/T%C3%A0i%20li%E1%BB%87u%20cho%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng%20cu%E1%BB%91i.md)
 ## Tài liệu cho nhà phát triển
-* Để xem tài liệu cho nhà phát triển, Vui lòng tham khảo [tại đây]()
+* Để xem tài liệu cho nhà phát triển, Vui lòng tham khảo [tại đây](https://github.com/F4Team-DHCN1A/QLSV/blob/master/Document/T%C3%A0i%20li%E1%BB%87u%20danh%20cho%20nh%C3%A0%20ph%C3%A1t%20tri%E1%BB%83n.md)
 ## Tài liệu thiết kế
 * Để xem tài liệu thiết kế, Vui lòng tham khảo [tại đây](https://github.com/F4Team-DHCN1A/QLSV/blob/master/Document/T%C3%A0i%20li%E1%BB%87u%20thi%E1%BA%BFt%20k%E1%BA%BF.md)
 ## Danh sách lỗi
