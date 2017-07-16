@@ -17,3 +17,8 @@ C:\Users\trieu\Desktop\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_DAL\bin\Debu
 C:\Users\trieu\Desktop\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_DAL\obj\Debug\QuanLySinhVien_DAL.csprojResolveAssemblyReference.cache
 C:\Users\trieu\Desktop\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_DAL\obj\Debug\QuanLySinhVien_DAL.dll
 C:\Users\trieu\Desktop\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_DAL\obj\Debug\QuanLySinhVien_DAL.pdb
+C:\Users\MINHTHUAN_IT\Desktop\QuanLySinhVien_MaNguonMo\QuanLySinhVien_DAL\bin\Debug\QuanLySinhVien_DAL.dll
+C:\Users\MINHTHUAN_IT\Desktop\QuanLySinhVien_MaNguonMo\QuanLySinhVien_DAL\bin\Debug\QuanLySinhVien_DAL.pdb
+C:\Users\MINHTHUAN_IT\Desktop\QuanLySinhVien_MaNguonMo\QuanLySinhVien_DAL\obj\Debug\QuanLySinhVien_DAL.csprojResolveAssemblyReference.cache
+C:\Users\MINHTHUAN_IT\Desktop\QuanLySinhVien_MaNguonMo\QuanLySinhVien_DAL\obj\Debug\QuanLySinhVien_DAL.dll
+C:\Users\MINHTHUAN_IT\Desktop\QuanLySinhVien_MaNguonMo\QuanLySinhVien_DAL\obj\Debug\QuanLySinhVien_DAL.pdb

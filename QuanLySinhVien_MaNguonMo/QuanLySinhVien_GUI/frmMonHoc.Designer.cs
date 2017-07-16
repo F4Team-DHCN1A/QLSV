@@ -49,6 +49,7 @@
             this.dgvMonHoc.Name = "dgvMonHoc";
             this.dgvMonHoc.Size = new System.Drawing.Size(339, 226);
             this.dgvMonHoc.TabIndex = 15;
+            this.dgvMonHoc.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvMonHoc_CellContentClick);
             // 
             // btnXoa
             // 
@@ -58,6 +59,7 @@
             this.btnXoa.TabIndex = 12;
             this.btnXoa.Text = "Xóa";
             this.btnXoa.UseVisualStyleBackColor = true;
+            this.btnXoa.Click += new System.EventHandler(this.btnXoa_Click);
             // 
             // btnSua
             // 
@@ -67,6 +69,7 @@
             this.btnSua.TabIndex = 13;
             this.btnSua.Text = "Sửa";
             this.btnSua.UseVisualStyleBackColor = true;
+            this.btnSua.Click += new System.EventHandler(this.btnSua_Click);
             // 
             // btnThem
             // 
@@ -76,6 +79,7 @@
             this.btnThem.TabIndex = 14;
             this.btnThem.Text = "Thêm";
             this.btnThem.UseVisualStyleBackColor = true;
+            this.btnThem.Click += new System.EventHandler(this.btnThem_Click);
             // 
             // cbbGiaoVien
             // 
@@ -154,6 +158,7 @@
             this.Controls.Add(this.label1);
             this.Name = "frmMonHoc";
             this.Text = "Môn Học";
+            this.Load += new System.EventHandler(this.frmMonHoc_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgvMonHoc)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
