@@ -45,6 +45,7 @@
     <Compile Include="MonHoc.cs" />
     <Compile Include="sinhvien.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="xulichuoi.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\QuanLySinhVien_DAL\QuanLySinhVien_DAL.csproj">

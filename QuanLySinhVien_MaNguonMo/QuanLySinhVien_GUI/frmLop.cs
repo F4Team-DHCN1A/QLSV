@@ -7,7 +7,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using System.Data.SqlClient;
 
 namespace QuanLySinhVien_GUI
 {
@@ -17,47 +16,78 @@ namespace QuanLySinhVien_GUI
         {
             InitializeComponent();
         }
-        int dem = 0;
-        private void btnThem_Click(object sender, EventArgs e)
+
+        private void btnthem_Click(object sender, EventArgs e)
         {
-            QuanLySinhVien_BLL.Lop.Them(txtMaLop.Text, txtTenLop.Text, cbbKhoa.SelectedValue.ToString());
-            dgvLop.DataSource = QuanLySinhVien_DAL.Data.DS_LOP();
-            lblTongSo.Text = "Tổng Lớp Học: " + dem.ToString();
+            try
+            {
+                QuanLySinhVien_BLL.Lop.Them(txtMaLop.Text, QuanLySinhVien_BLL.xulichuoi.VietHoa(txtTenLop.Text), cbbKhoa.SelectedValue.ToString(), cbbGV.SelectedValue.ToString());
+                dgvLop.DataSource = QuanLySinhVien_DAL.Data.DS_LOP();
+                dem = dgvLop.RowCount - 1;
+                lblThongbao.Text = "Tổng : " + dem.ToString();
+            }
+            catch
+            {
+                MessageBox.Show("Nhập thất bại", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            }
         }
 
         private void btnSua_Click(object sender, EventArgs e)
         {
-            //hàm sửa dữ liệu
-            QuanLySinhVien_BLL.Lop.Sua(txtMaLop.Text, txtTenLop.Text, cbbKhoa.SelectedValue.ToString());
-            dgvLop.DataSource = QuanLySinhVien_DAL.Data.DS_LOP();
+            try
+            {
+                QuanLySinhVien_BLL.Lop.Sua(txtMaLop.Text, QuanLySinhVien_BLL.xulichuoi.VietHoa(txtTenLop.Text), cbbKhoa.SelectedValue.ToString(), cbbGV.SelectedValue.ToString());
+                dgvLop.DataSource = QuanLySinhVien_DAL.Data.DS_LOP();
+            }
+            catch
+            {
+                MessageBox.Show("Sửa thất bại", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            }
         }
 
         private void btnXoa_Click(object sender, EventArgs e)
         {
-            //hàm xóa dữ liệu
-            QuanLySinhVien_BLL.Lop.Xoa(txtMaLop.Text);
-            dgvLop.DataSource = QuanLySinhVien_DAL.Data.DS_LOP();//hiện lên gridview
-            lblTongSo.Text = "Tổng Lớp Học: " + dem.ToString();//hiện tổng số kết quả trong bảng hiện có
+            try
+            {
+                QuanLySinhVien_BLL.Lop.Xoa(txtMaLop.Text);
+                dgvLop.DataSource = QuanLySinhVien_DAL.Data.DS_LOP();
+                dem = dgvLop.RowCount - 1;
+                lblThongbao.Text = "Tổng : " + dem.ToString();
+            }
+            catch
+            {
+                MessageBox.Show("Nhập thất bại", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            }
+        }
+        int dem = 0;
+        private void frmLop_Load(object sender, EventArgs e)
+        {
+            cbbKhoa.DataSource = QuanLySinhVien_DAL.Data.DS_KHOA();
+            cbbKhoa.DisplayMember = "TenKhoa";
+            cbbKhoa.ValueMember = "MaKhoa";
+
+            cbbGV.DataSource = QuanLySinhVien_DAL.Data.DS_GIANGVIEN();
+            cbbGV.DisplayMember = "TenGV";
+            cbbGV.ValueMember = "MaGV";
+
+            dgvLop.DataSource = QuanLySinhVien_DAL.Data.DS_LOP();//chọn ngồn dữ liệu
+            dgvLop.Columns[0].HeaderText = "Mã lớp";
+            dgvLop.Columns[1].HeaderText = "Tên lớp";
+            dgvLop.Columns[2].HeaderText = "khoa";
+            dgvLop.Columns[3].HeaderText = "GV";
+            dgvLop.Columns[0].Width = 140;
+            dgvLop.Columns[1].Width = 140;
+            dgvLop.Columns[2].Width = 140;
+            dgvLop.Columns[3].Width = 140;
+            dem = dgvLop.RowCount - 1;//đếm số lượng
+            lblThongbao.Text = "Tổng : " + dem.ToString();
         }
         int row;
-
-        private void dgvLop_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        private void dgvLop_CellClick(object sender, DataGridViewCellEventArgs e)
         {
             row = e.RowIndex;
             txtMaLop.Text = dgvLop.Rows[row].Cells[0].Value.ToString();
             txtTenLop.Text = dgvLop.Rows[row].Cells[1].Value.ToString();
-        }
-
-        private void frmLop_Load(object sender, EventArgs e)
-        {
-            dgvLop.DataSource = QuanLySinhVien_DAL.Data.DS_LOP();//chọn ngồn dữ liệu
-            dem = dgvLop.RowCount - 1;//đếm số lượng
-
-            cbbKhoa.DataSource = QuanLySinhVien_DAL.Data.DS_KHOA();
-            cbbKhoa.DisplayMember = "TenKhoa";//hiển thị cột tương ứng
-            cbbKhoa.ValueMember = "MaKhoa";
-
-            lblTongSo.Text = "Tổng Lớp Học: " + dem.ToString();
         }
     }
 }

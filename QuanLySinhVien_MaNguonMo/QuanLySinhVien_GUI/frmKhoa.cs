@@ -7,8 +7,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using System.Data;
-using System.Data.SqlClient;
 
 namespace QuanLySinhVien_GUI
 {
@@ -21,23 +19,17 @@ namespace QuanLySinhVien_GUI
         int dem = 0;
         private void btnThem_Click(object sender, EventArgs e)
         {
-            QuanLySinhVien_BLL.khoa.Nhap_Khoa(txtMaKhoa.Text, txtTenKhoa.Text);
-            dgvKhoa.DataSource = QuanLySinhVien_DAL.Data.DS_KHOA();
+            try
+            {
+                QuanLySinhVien_BLL.khoa.Nhap_Khoa(txtMaKhoa.Text, QuanLySinhVien_BLL.xulichuoi.VietHoa(txtTenKhoa.Text));
+                dgvKhoa.DataSource = QuanLySinhVien_DAL.Data.DS_KHOA();
 
-            lblTong.Text = "Tổng Khoa: " + dem.ToString();
-        }
-
-        private void btnSua_Click(object sender, EventArgs e)
-        {
-            QuanLySinhVien_BLL.khoa.Sua_Khoa(txtMaKhoa.Text, txtTenKhoa.Text);
-            dgvKhoa.DataSource = QuanLySinhVien_DAL.Data.DS_KHOA();
-        }
-
-        private void btnXoa_Click(object sender, EventArgs e)
-        {
-            QuanLySinhVien_BLL.khoa.Xoa_Khoa(txtMaKhoa.Text);
-            dgvKhoa.DataSource = QuanLySinhVien_DAL.Data.DS_KHOA();//hiện lên gridview
-            lblTongSo.Text = "Tổng Khoa: " + dem.ToString();//hiện tổng số kết quả trong bảng hiện có
+                lblThongbao.Text = "Tổng Khoa: " + dem.ToString();
+            }
+            catch
+            {
+                MessageBox.Show("Nhập thất bại","Lỗi",MessageBoxButtons.OK,MessageBoxIcon.Warning);
+            }
         }
         int row;
         private void dgvKhoa_CellContentClick(object sender, DataGridViewCellEventArgs e)
@@ -56,8 +48,44 @@ namespace QuanLySinhVien_GUI
             dgvKhoa.Columns[0].Width = 140;
             dgvKhoa.Columns[1].Width = 140;
             dem = dgvKhoa.RowCount - 1;//đếm số lượng
-            lblTongSo.Text = "Tổng khoa : " + dem.ToString();
+            lblThongbao.Text = "Tổng khoa : " + dem.ToString();
         }
-      
+
+        private void btnSua_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                QuanLySinhVien_BLL.khoa.Sua_Khoa(txtMaKhoa.Text, QuanLySinhVien_BLL.xulichuoi.VietHoa(txtTenKhoa.Text));
+                dgvKhoa.DataSource = QuanLySinhVien_DAL.Data.DS_KHOA();
+
+                
+            }
+            catch
+            {
+                MessageBox.Show("Sửa thất bại", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            }
+        }
+
+        private void btnXoa_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                QuanLySinhVien_BLL.khoa.Xoa_Khoa(txtMaKhoa.Text);
+                dgvKhoa.DataSource = QuanLySinhVien_DAL.Data.DS_KHOA();
+
+                lblThongbao.Text = "Tổng Khoa: " + dem.ToString();
+            }
+            catch
+            {
+                MessageBox.Show("Xóa thất bại", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            }
+        }
+
+        private void dgvKhoa_CellClick(object sender, DataGridViewCellEventArgs e)
+        {
+            row = e.RowIndex;
+            txtMaKhoa.Text = dgvKhoa.Rows[row].Cells[0].Value.ToString();
+            txtTenKhoa.Text = dgvKhoa.Rows[row].Cells[1].Value.ToString();
+        }
     }
 }

@@ -5,24 +5,23 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Data;
 using System.Data.SqlClient;
-
 namespace QuanLySinhVien_BLL
 {
-   public static class Lop
+    public static class Lop
     {
-        public static void Them(string malop, string tenlop, string khoa)
+        public static void Them(string malop, string tenlop, string khoa, string gv)
         {
             SqlConnection con = new SqlConnection(QuanLySinhVien_DAL.DB_connect.strcon);
             con.Open();
-            SqlCommand cmd = new SqlCommand("insert into LOP values('" + malop + "',N'" + tenlop + "','" + khoa + "')", con);
+            SqlCommand cmd = new SqlCommand("insert into LOP values('" + malop + "',N'" + tenlop + "','" + khoa + "','"+gv+"')", con);
             cmd.ExecuteNonQuery();
             con.Close();
         }
-        public static void Sua(string malop, string tenlop, string khoa)
+        public static void Sua(string malop, string tenlop, string khoa,string gv)
         {
             SqlConnection con = new SqlConnection(QuanLySinhVien_DAL.DB_connect.strcon);
             con.Open();
-            SqlCommand cmd = new SqlCommand("update LOP set TenLop=N'" + tenlop + "',MaKhoa='" + khoa + "' where MaLop = '" + malop + "'", con);
+            SqlCommand cmd = new SqlCommand("update LOP set TenLop=N'" + tenlop + "',MaKhoa='" + khoa + "',MaGV='"+gv+"' where MaLop = '" + malop + "'", con);
             cmd.ExecuteNonQuery();
             con.Close();
         }
