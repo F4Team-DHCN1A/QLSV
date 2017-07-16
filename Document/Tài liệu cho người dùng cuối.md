@@ -67,3 +67,4 @@
     <li>Click lựa chọn các nút chức năng muốn thực hiện.</li>
     <li>Các thông tin bạn vừa xử lý sẽ được hiển thị trước để bạn có thể xem qua trước khi in</li>
   </ul>
+> T/g: Nguyễn Duy Thanh Tùng | Email: nguyenduythanhtung@gmail.com
