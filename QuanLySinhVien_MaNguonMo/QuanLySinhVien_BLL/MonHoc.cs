@@ -8,13 +8,23 @@ using System.Data.SqlClient;
 
 namespace QuanLySinhVien_BLL
 {
-   public class MonHoc
+    public static class MonHoc
     {
         public static void Them(string mamh, string tenmh, string giaovien)
         {
+            string strchuyentu = "";
+            string[] laytu = tenmh.Split(' ');
+            string kitudau = "";
+            for (int i = 0; i < laytu.Length; i++)
+            {
+                kitudau = laytu[i].Substring(0, 1);
+                strchuyentu += kitudau.ToUpper() + laytu[i].Remove(0, 1) + " ";
+            }
+            
+
             SqlConnection con = new SqlConnection(QuanLySinhVien_DAL.DB_connect.strcon);
             con.Open();
-            SqlCommand cmd = new SqlCommand("insert into MONHOC values('" + mamh + "','" + tenmh + "','" + giaovien + "')", con);
+            SqlCommand cmd = new SqlCommand("insert into MONHOC values('"+mamh+"',N'"+strchuyentu+"','"+giaovien+"')",con);
             cmd.ExecuteNonQuery();
             con.Close();
         }
@@ -22,7 +32,7 @@ namespace QuanLySinhVien_BLL
         {
             SqlConnection con = new SqlConnection(QuanLySinhVien_DAL.DB_connect.strcon);
             con.Open();
-            SqlCommand cmd = new SqlCommand("update from MONHOC set TenMH='" + tenmh + "',MaGV='" + giaovien + "' where MaMH = '" + mamh + "'", con);
+            SqlCommand cmd = new SqlCommand("update from MONHOC set TenMH=N'" + tenmh + "',MaGV='" + giaovien + "' where MaMH = '"+mamh+"'", con);
             cmd.ExecuteNonQuery();
             con.Close();
         }

@@ -24,78 +24,57 @@ E:\Git\QLSV\QLSV_111\QuanLySinhVien_GUI\bin\Debug\QuanLySinhVien_BLL.pdb
 E:\Git\QLSV\QLSV_111\QuanLySinhVien_GUI\bin\Debug\QuanLySinhVien_DAL.pdb
 E:\Git\QLSV\QLSV_111\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.exe
 E:\Git\QLSV\QLSV_111\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.pdb
-F:\Study\4305 - PTPM ma nguon mo - Mr Tho\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\bin\Debug\QuanLySinhVien_GUI.exe.config
-F:\Study\4305 - PTPM ma nguon mo - Mr Tho\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.exe
-F:\Study\4305 - PTPM ma nguon mo - Mr Tho\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.pdb
-F:\Study\4305 - PTPM ma nguon mo - Mr Tho\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\bin\Debug\QuanLySinhVien_GUI.exe
-F:\Study\4305 - PTPM ma nguon mo - Mr Tho\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\bin\Debug\QuanLySinhVien_GUI.pdb
-F:\Study\4305 - PTPM ma nguon mo - Mr Tho\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\bin\Debug\QuanLySinhVien_BLL.dll
-F:\Study\4305 - PTPM ma nguon mo - Mr Tho\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\bin\Debug\QuanLySinhVien_DAL.dll
-F:\Study\4305 - PTPM ma nguon mo - Mr Tho\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\bin\Debug\QuanLySinhVien_BLL.pdb
-F:\Study\4305 - PTPM ma nguon mo - Mr Tho\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\bin\Debug\QuanLySinhVien_DAL.pdb
-F:\Study\4305 - PTPM ma nguon mo - Mr Tho\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.csprojResolveAssemblyReference.cache
-F:\Study\4305 - PTPM ma nguon mo - Mr Tho\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.Properties.Resources.resources
-F:\Study\4305 - PTPM ma nguon mo - Mr Tho\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.csproj.GenerateResource.Cache
-F:\Study\4305 - PTPM ma nguon mo - Mr Tho\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.frmProMain.resources
-F:\Study\4305 - PTPM ma nguon mo - Mr Tho\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.frmSinhVien.resources
-F:\Study\4305 - PTPM ma nguon mo - Mr Tho\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.frmindanhsachsinhvientheokhoa.resources
-F:\Study\4305 - PTPM ma nguon mo - Mr Tho\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.frmindanhsachsinhvientheolop.resources
-F:\Study\4305 - PTPM ma nguon mo - Mr Tho\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.frmtimkiemdiemsinhvientheomasv.resources
-F:\Study\4305 - PTPM ma nguon mo - Mr Tho\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.frmtimkiemdiemsinhvientheoten.resources
-F:\Study\4305 - PTPM ma nguon mo - Mr Tho\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.frmindiemsinhvientheolop.resources
-F:\Study\4305 - PTPM ma nguon mo - Mr Tho\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.frmquanlydiem.resources
-F:\Study\4305 - PTPM ma nguon mo - Mr Tho\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.frmtimkiemthongtinsinhvientheomasv.resources
-F:\Study\4305 - PTPM ma nguon mo - Mr Tho\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.frmtimkiemthongtinsinhvientheoten.resources
-F:\Study\4305 - PTPM ma nguon mo - Mr Tho\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.frmMonHoc.resources
-C:\Users\trieu\Desktop\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\bin\Debug\QuanLySinhVien_GUI.exe.config
-C:\Users\trieu\Desktop\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.exe
-C:\Users\trieu\Desktop\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.pdb
-C:\Users\trieu\Desktop\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\bin\Debug\QuanLySinhVien_GUI.exe
-C:\Users\trieu\Desktop\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\bin\Debug\QuanLySinhVien_GUI.pdb
-C:\Users\trieu\Desktop\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\bin\Debug\QuanLySinhVien_BLL.dll
-C:\Users\trieu\Desktop\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\bin\Debug\QuanLySinhVien_DAL.dll
-C:\Users\trieu\Desktop\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\bin\Debug\QuanLySinhVien_BLL.pdb
-C:\Users\trieu\Desktop\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\bin\Debug\QuanLySinhVien_DAL.pdb
-C:\Users\trieu\Desktop\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.csprojResolveAssemblyReference.cache
-C:\Users\trieu\Desktop\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.frmKhoa.resources
-C:\Users\trieu\Desktop\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.frmMonHoc.resources
-C:\Users\trieu\Desktop\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.frmProMain.resources
-C:\Users\trieu\Desktop\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.frmSinhVien.resources
-C:\Users\trieu\Desktop\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.frmindanhsachsinhvientheokhoa.resources
-C:\Users\trieu\Desktop\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.frmindanhsachsinhvientheolop.resources
-C:\Users\trieu\Desktop\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.frmtimkiemdiemsinhvientheomasv.resources
-C:\Users\trieu\Desktop\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.frmtimkiemdiemsinhvientheoten.resources
-C:\Users\trieu\Desktop\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.frmindiemsinhvientheolop.resources
-C:\Users\trieu\Desktop\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.Properties.Resources.resources
-C:\Users\trieu\Desktop\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.frmquanlydiem.resources
-C:\Users\trieu\Desktop\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.frmtimkiemthongtinsinhvientheomasv.resources
-C:\Users\trieu\Desktop\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.frmtimkiemthongtinsinhvientheoten.resources
-C:\Users\trieu\Desktop\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.csproj.GenerateResource.Cache
-C:\Users\trieu\Desktop\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.frmLop.resources
-F:\Study\4305 - PTPM ma nguon mo - Mr Tho\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.frmKhoa.resources
-F:\Study\4305 - PTPM ma nguon mo - Mr Tho\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.frmLop.resources
-C:\Users\MINHTHUAN_IT\Desktop\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\bin\Debug\QuanLySinhVien_GUI.exe.config
-C:\Users\MINHTHUAN_IT\Desktop\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.exe
-C:\Users\MINHTHUAN_IT\Desktop\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.pdb
-C:\Users\MINHTHUAN_IT\Desktop\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\bin\Debug\QuanLySinhVien_GUI.exe
-C:\Users\MINHTHUAN_IT\Desktop\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\bin\Debug\QuanLySinhVien_GUI.pdb
-C:\Users\MINHTHUAN_IT\Desktop\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\bin\Debug\QuanLySinhVien_BLL.dll
-C:\Users\MINHTHUAN_IT\Desktop\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\bin\Debug\QuanLySinhVien_DAL.dll
-C:\Users\MINHTHUAN_IT\Desktop\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\bin\Debug\QuanLySinhVien_BLL.pdb
-C:\Users\MINHTHUAN_IT\Desktop\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\bin\Debug\QuanLySinhVien_DAL.pdb
-C:\Users\MINHTHUAN_IT\Desktop\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.csprojResolveAssemblyReference.cache
-C:\Users\MINHTHUAN_IT\Desktop\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.frmKhoa.resources
-C:\Users\MINHTHUAN_IT\Desktop\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.frmLop.resources
-C:\Users\MINHTHUAN_IT\Desktop\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.frmMonHoc.resources
-C:\Users\MINHTHUAN_IT\Desktop\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.frmProMain.resources
-C:\Users\MINHTHUAN_IT\Desktop\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.frmSinhVien.resources
-C:\Users\MINHTHUAN_IT\Desktop\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.frmindanhsachsinhvientheokhoa.resources
-C:\Users\MINHTHUAN_IT\Desktop\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.frmindanhsachsinhvientheolop.resources
-C:\Users\MINHTHUAN_IT\Desktop\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.frmtimkiemdiemsinhvientheomasv.resources
-C:\Users\MINHTHUAN_IT\Desktop\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.frmtimkiemdiemsinhvientheoten.resources
-C:\Users\MINHTHUAN_IT\Desktop\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.frmindiemsinhvientheolop.resources
-C:\Users\MINHTHUAN_IT\Desktop\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.Properties.Resources.resources
-C:\Users\MINHTHUAN_IT\Desktop\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.frmquanlydiem.resources
-C:\Users\MINHTHUAN_IT\Desktop\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.frmtimkiemthongtinsinhvientheomasv.resources
-C:\Users\MINHTHUAN_IT\Desktop\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.frmtimkiemthongtinsinhvientheoten.resources
-C:\Users\MINHTHUAN_IT\Desktop\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.csproj.GenerateResource.Cache
+E:\Git\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\bin\Debug\QuanLySinhVien_GUI.exe.config
+E:\Git\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.exe
+E:\Git\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.pdb
+E:\Git\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\bin\Debug\QuanLySinhVien_GUI.exe
+E:\Git\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\bin\Debug\QuanLySinhVien_GUI.pdb
+E:\Git\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\bin\Debug\QuanLySinhVien_BLL.dll
+E:\Git\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\bin\Debug\QuanLySinhVien_DAL.dll
+E:\Git\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\bin\Debug\QuanLySinhVien_BLL.pdb
+E:\Git\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\bin\Debug\QuanLySinhVien_DAL.pdb
+E:\Git\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.csprojResolveAssemblyReference.cache
+E:\Git\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.Properties.Resources.resources
+E:\Git\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.csproj.GenerateResource.Cache
+E:\Git\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\RdlCompile.cache
+E:\Git\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\RdlCompile.compiled
+E:\Git\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.frmMonHoc.resources
+E:\Git\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.csproj.ResolveComReference.cache
+E:\Git\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.frmProMain.resources
+E:\Git\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.frmSinhVien.resources
+E:\Git\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.frmindanhsachsinhvientheokhoa.resources
+E:\Git\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.frmindanhsachsinhvientheolop.resources
+E:\Git\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.frmindiemsinhvientheolop.resources
+E:\Git\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.frmquanlydiem.resources
+E:\Git\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.frmtimkiemthongtinsinhvientheomasv.resources
+E:\Git\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.frmtimkiemthongtinsinhvientheoten.resources
+E:\Git\QLSV2\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\bin\Debug\QuanLySinhVien_GUI.exe.config
+E:\Git\QLSV2\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.csproj.ResolveComReference.cache
+E:\Git\QLSV2\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.exe
+E:\Git\QLSV2\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.pdb
+E:\Git\QLSV2\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\bin\Debug\QuanLySinhVien_GUI.exe
+E:\Git\QLSV2\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\bin\Debug\QuanLySinhVien_GUI.pdb
+E:\Git\QLSV2\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\bin\Debug\QuanLySinhVien_BLL.dll
+E:\Git\QLSV2\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\bin\Debug\QuanLySinhVien_DAL.dll
+E:\Git\QLSV2\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\bin\Debug\QuanLySinhVien_BLL.pdb
+E:\Git\QLSV2\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\bin\Debug\QuanLySinhVien_DAL.pdb
+E:\Git\QLSV2\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.csprojResolveAssemblyReference.cache
+E:\Git\QLSV2\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.frmKhoa.resources
+E:\Git\QLSV2\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.frmLop.resources
+E:\Git\QLSV2\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.frmProMain.resources
+E:\Git\QLSV2\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.frmSinhVien.resources
+E:\Git\QLSV2\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.frmMonHoc.resources
+E:\Git\QLSV2\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.frmindanhsachsinhvientheokhoa.resources
+E:\Git\QLSV2\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.frmindanhsachsinhvientheolop.resources
+E:\Git\QLSV2\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.frmindiemsinhvientheolop.resources
+E:\Git\QLSV2\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.Properties.Resources.resources
+E:\Git\QLSV2\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.frmquanlydiem.resources
+E:\Git\QLSV2\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.frmtimkiemthongtinsinhvientheomasv.resources
+E:\Git\QLSV2\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.frmtimkiemthongtinsinhvientheoten.resources
+E:\Git\QLSV2\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.csproj.GenerateResource.Cache
+E:\Git\QLSV2\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\RdlCompile.cache
+E:\Git\QLSV2\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\RdlCompile.compiled
+C:\Users\vanle_000\Desktop\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\bin\Debug\QuanLySinhVien_GUI.exe.config
+C:\Users\vanle_000\Desktop\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.csproj.ResolveComReference.cache
+C:\Users\vanle_000\Desktop\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.exe
+C:\Users\vanle_000\Desktop\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_GUI\obj\Debug\QuanLySinhVien_GUI.pdb

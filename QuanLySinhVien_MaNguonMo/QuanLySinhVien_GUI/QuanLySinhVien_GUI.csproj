@@ -32,6 +32,12 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="DevComponents.DotNetBar2, Version=14.1.0.0, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files (x86)\DotNetBar for Windows Forms\DevComponents.DotNetBar2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Web.Services" />
@@ -57,12 +63,6 @@
     <Compile Include="frmLop.Designer.cs">
       <DependentUpon>frmLop.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmMonHoc.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmMonHoc.Designer.cs">
-      <DependentUpon>frmMonHoc.cs</DependentUpon>
-    </Compile>
     <Compile Include="frmProMain.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -75,6 +75,12 @@
     <Compile Include="frmSinhVien.Designer.cs">
       <DependentUpon>frmSinhVien.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmMonHoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMonHoc.Designer.cs">
+      <DependentUpon>frmMonHoc.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmindanhsachsinhvientheokhoa.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -86,18 +92,6 @@
     </Compile>
     <Compile Include="frmindanhsachsinhvientheolop.Designer.cs">
       <DependentUpon>frmindanhsachsinhvientheolop.cs</DependentUpon>
-    </Compile>
-    <Compile Include="frmtimkiemdiemsinhvientheomasv.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmtimkiemdiemsinhvientheomasv.Designer.cs">
-      <DependentUpon>frmtimkiemdiemsinhvientheomasv.cs</DependentUpon>
-    </Compile>
-    <Compile Include="frmtimkiemdiemsinhvientheoten.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmtimkiemdiemsinhvientheoten.Designer.cs">
-      <DependentUpon>frmtimkiemdiemsinhvientheoten.cs</DependentUpon>
     </Compile>
     <Compile Include="frmindiemsinhvientheolop.cs">
       <SubType>Form</SubType>
@@ -125,14 +119,26 @@
     <Compile Include="frmtimkiemthongtinsinhvientheoten.Designer.cs">
       <DependentUpon>frmtimkiemthongtinsinhvientheoten.cs</DependentUpon>
     </Compile>
+    <Compile Include="QLSVDataSet_DiemTheoLop.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLSVDataSet_DiemTheoLop.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QLSVDataSet_SVtheoKhoa.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLSVDataSet_SVtheoKhoa.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QLSVDataSet_SVtheoLop.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLSVDataSet_SVtheoLop.xsd</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="frmKhoa.resx">
       <DependentUpon>frmKhoa.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmLop.resx">
       <DependentUpon>frmLop.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="frmMonHoc.resx">
-      <DependentUpon>frmMonHoc.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmProMain.resx">
       <DependentUpon>frmProMain.cs</DependentUpon>
@@ -140,18 +146,16 @@
     <EmbeddedResource Include="frmSinhVien.resx">
       <DependentUpon>frmSinhVien.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmMonHoc.resx">
+      <DependentUpon>frmMonHoc.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmindanhsachsinhvientheokhoa.resx">
       <DependentUpon>frmindanhsachsinhvientheokhoa.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmindanhsachsinhvientheolop.resx">
       <DependentUpon>frmindanhsachsinhvientheolop.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmtimkiemdiemsinhvientheomasv.resx">
-      <DependentUpon>frmtimkiemdiemsinhvientheomasv.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="frmtimkiemdiemsinhvientheoten.resx">
-      <DependentUpon>frmtimkiemdiemsinhvientheoten.cs</DependentUpon>
-    </EmbeddedResource>
+    <EmbeddedResource Include="rptDiemTheoLop.rdlc" />
     <EmbeddedResource Include="frmindiemsinhvientheolop.resx">
       <DependentUpon>frmindiemsinhvientheolop.cs</DependentUpon>
     </EmbeddedResource>
@@ -182,6 +186,39 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <None Include="QLSVDataSet_DiemTheoLop.xsc">
+      <DependentUpon>QLSVDataSet_DiemTheoLop.xsd</DependentUpon>
+    </None>
+    <None Include="QLSVDataSet_DiemTheoLop.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLSVDataSet_DiemTheoLop.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLSVDataSet_DiemTheoLop.xss">
+      <DependentUpon>QLSVDataSet_DiemTheoLop.xsd</DependentUpon>
+    </None>
+    <None Include="QLSVDataSet_SVtheoKhoa.xsc">
+      <DependentUpon>QLSVDataSet_SVtheoKhoa.xsd</DependentUpon>
+    </None>
+    <None Include="QLSVDataSet_SVtheoKhoa.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLSVDataSet_SVtheoKhoa.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLSVDataSet_SVtheoKhoa.xss">
+      <DependentUpon>QLSVDataSet_SVtheoKhoa.xsd</DependentUpon>
+    </None>
+    <None Include="QLSVDataSet_SVtheoLop.xsc">
+      <DependentUpon>QLSVDataSet_SVtheoLop.xsd</DependentUpon>
+    </None>
+    <None Include="QLSVDataSet_SVtheoLop.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLSVDataSet_SVtheoLop.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLSVDataSet_SVtheoLop.xss">
+      <DependentUpon>QLSVDataSet_SVtheoLop.xsd</DependentUpon>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -195,6 +232,35 @@
       <Project>{18ffe59e-4e85-45ed-9f6d-7a8d0fcea2d1}</Project>
       <Name>QuanLySinhVien_DAL</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>5</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>7</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

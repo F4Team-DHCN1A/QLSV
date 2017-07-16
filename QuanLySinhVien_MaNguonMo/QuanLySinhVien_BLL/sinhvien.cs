@@ -15,20 +15,22 @@ namespace QuanLySinhVien_BLL
         {
             return true;
         }*/
-        public static void Nhap_SV(string masv, string tensv, string ngaysinh, string malop, string makhoa)
+       
+        public static void Nhap_SV(string masv,string hosv, string tensv, int gt, string ngaysinh, string malop, string makhoa)
         {
-            SqlConnection con = new SqlConnection(QuanLySinhVien_DAL.DB_connect.strcon);
-            con.Open();
-            SqlCommand cmd = new SqlCommand("insert into SINHVIEN values('" + masv + "',N'" + tensv + "','" + ngaysinh + "','" + malop + "','" + makhoa + "')", con);
-            cmd.ExecuteNonQuery();
-            con.Close();
-
+            
+                SqlConnection con = new SqlConnection(QuanLySinhVien_DAL.DB_connect.strcon);
+                con.Open();
+                SqlCommand cmd = new SqlCommand("insert into SINHVIEN values('" + masv + "',N'" + hosv + "',N'" + tensv + "','" + gt + "','" + ngaysinh + "','" + malop + "','" + makhoa + "')", con);
+                cmd.ExecuteNonQuery();
+                con.Close();
+            
         }
-        public static void Sua_SV(string masv, string tensv, string ngaysinh, string malop)
+        public static void Sua_SV(string masv, string hosv,string tensv, int gt, string ngaysinh, string malop)
         {
             SqlConnection con = new SqlConnection(QuanLySinhVien_DAL.DB_connect.strcon);
             con.Open();
-            SqlCommand cmd = new SqlCommand("update from SINHVIEN set TenSV='" + tensv + "',NgaySinh='" + ngaysinh + "',MaLop='" + malop + "' where MaSV='" + masv + "'", con);
+            SqlCommand cmd = new SqlCommand("update SINHVIEN set HoSV=N'"+hosv+"' TenSV=N'"+tensv+"',GioiTinh='"+gt+"',NgaySinh='"+ngaysinh+"',MaLop='"+malop+"' where MaSV='"+masv+"'", con);
             cmd.ExecuteNonQuery();
             con.Close();
         }
@@ -44,18 +46,18 @@ namespace QuanLySinhVien_BLL
         {
             SqlConnection con = new SqlConnection(QuanLySinhVien_DAL.DB_connect.strcon);
             con.Open();
-            SqlDataAdapter adap = new SqlDataAdapter("select row_number() over (order by MaSV) as STT, MaSV as [Mã Sinh Viên],TenSV as[Tên Sinh Viên],NgaySinh as[Ngày Sinh],MaLop as [Mã Lớp], MaKhoa as [Mã Khoa]  from SINHVIEN where MaSV like '%" + ma + "%'", con);
+            SqlDataAdapter adap = new SqlDataAdapter("select row_number() over (order by MaSV) as STT, MaSV as [Mã Sinh Viên],HoSV as[Họ Sinh Viên],TenSV as[Tên Sinh Viên],case when GioiTinh = '1' then 'Nam' else N'Nữ' end as [Giới Tính],NgaySinh as[Ngày Sinh],MaLop as [Mã Lớp], MaKhoa as [Mã Khoa]  from SINHVIEN where MaSV like '%" + ma + "%'", con);
             DataTable ds = new DataTable();
             adap.Fill(ds);
             con.Close();
             return ds;
-
+            
         }
         public static DataTable timSV_Ten(string ten)
         {
             SqlConnection con = new SqlConnection(QuanLySinhVien_DAL.DB_connect.strcon);
             con.Open();
-            SqlDataAdapter adap = new SqlDataAdapter("select row_number() over (order by MaSV) as STT, MaSV as [Mã Sinh Viên],TenSV as[Tên Sinh Viên],NgaySinh as[Ngày Sinh],MaLop as [Mã Lớp], MaKhoa as [Mã Khoa]  from SINHVIEN where TenSV like '%" + ten + "%'", con);
+            SqlDataAdapter adap = new SqlDataAdapter("select row_number() over (order by MaSV) as STT, MaSV as [Mã Sinh Viên],HoSV as [Họ Sinh Viên],TenSV as[Tên Sinh Viên],case when GioiTinh = '1' then 'Nam' else N'Nữ' end as [Giới Tính],NgaySinh as[Ngày Sinh],MaLop as [Mã Lớp], MaKhoa as [Mã Khoa]  from SINHVIEN where TenSV like N'%" + ten + "%'", con);
             DataTable ds = new DataTable();
             adap.Fill(ds);
             con.Close();

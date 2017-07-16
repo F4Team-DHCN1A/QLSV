@@ -7,18 +7,8 @@ E:\Git\QLSV\QLSV_111\QuanLySinhVien_DAL\bin\Debug\QuanLySinhVien_DAL.pdb
 E:\Git\QLSV\QLSV_111\QuanLySinhVien_DAL\obj\Debug\QuanLySinhVien_DAL.csprojResolveAssemblyReference.cache
 E:\Git\QLSV\QLSV_111\QuanLySinhVien_DAL\obj\Debug\QuanLySinhVien_DAL.dll
 E:\Git\QLSV\QLSV_111\QuanLySinhVien_DAL\obj\Debug\QuanLySinhVien_DAL.pdb
-F:\Study\4305 - PTPM ma nguon mo - Mr Tho\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_DAL\bin\Debug\QuanLySinhVien_DAL.dll
-F:\Study\4305 - PTPM ma nguon mo - Mr Tho\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_DAL\bin\Debug\QuanLySinhVien_DAL.pdb
-F:\Study\4305 - PTPM ma nguon mo - Mr Tho\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_DAL\obj\Debug\QuanLySinhVien_DAL.csprojResolveAssemblyReference.cache
-F:\Study\4305 - PTPM ma nguon mo - Mr Tho\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_DAL\obj\Debug\QuanLySinhVien_DAL.dll
-F:\Study\4305 - PTPM ma nguon mo - Mr Tho\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_DAL\obj\Debug\QuanLySinhVien_DAL.pdb
-C:\Users\trieu\Desktop\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_DAL\bin\Debug\QuanLySinhVien_DAL.dll
-C:\Users\trieu\Desktop\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_DAL\bin\Debug\QuanLySinhVien_DAL.pdb
-C:\Users\trieu\Desktop\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_DAL\obj\Debug\QuanLySinhVien_DAL.csprojResolveAssemblyReference.cache
-C:\Users\trieu\Desktop\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_DAL\obj\Debug\QuanLySinhVien_DAL.dll
-C:\Users\trieu\Desktop\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_DAL\obj\Debug\QuanLySinhVien_DAL.pdb
-C:\Users\MINHTHUAN_IT\Desktop\QuanLySinhVien_MaNguonMo\QuanLySinhVien_DAL\bin\Debug\QuanLySinhVien_DAL.dll
-C:\Users\MINHTHUAN_IT\Desktop\QuanLySinhVien_MaNguonMo\QuanLySinhVien_DAL\bin\Debug\QuanLySinhVien_DAL.pdb
-C:\Users\MINHTHUAN_IT\Desktop\QuanLySinhVien_MaNguonMo\QuanLySinhVien_DAL\obj\Debug\QuanLySinhVien_DAL.csprojResolveAssemblyReference.cache
-C:\Users\MINHTHUAN_IT\Desktop\QuanLySinhVien_MaNguonMo\QuanLySinhVien_DAL\obj\Debug\QuanLySinhVien_DAL.dll
-C:\Users\MINHTHUAN_IT\Desktop\QuanLySinhVien_MaNguonMo\QuanLySinhVien_DAL\obj\Debug\QuanLySinhVien_DAL.pdb
+E:\Git\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_DAL\bin\Debug\QuanLySinhVien_DAL.dll
+E:\Git\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_DAL\bin\Debug\QuanLySinhVien_DAL.pdb
+E:\Git\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_DAL\obj\Debug\QuanLySinhVien_DAL.csprojResolveAssemblyReference.cache
+E:\Git\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_DAL\obj\Debug\QuanLySinhVien_DAL.dll
+E:\Git\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_DAL\obj\Debug\QuanLySinhVien_DAL.pdb
