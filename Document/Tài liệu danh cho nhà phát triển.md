@@ -1,4 +1,4 @@
-##  Tài Liệu Dành Cho Người Phát Triển
+##  Tài Liệu Dành Cho Nhà Phát Triển
 Chào các bạn, đây là tài liệu dành cho những ai muốn phát triển phiên bản đầu tiên về Quản Lý Sinh Viên của nhóm chúng tôi.
 Hiện tại, ở phiên bản đầu tiên này, nhóm chúng tôi đã thực hiện thiết kế được các chức năng như sau:
 *	Thêm sửa xóa các thông tin như: Khoa, Lớp, Điểm, Môn Học và Sinh viên
