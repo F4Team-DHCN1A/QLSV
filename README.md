@@ -73,6 +73,6 @@ Nhằm tạo ra phần mềm đầy đủ, hoàn thiện và có chất lượng
 
 > T/g: Triệu Nam Dương
 ## Lời cảm ơn
-Để hoàn thành tốt đề tài này chúng em xin cảm ơn thầy **Mai Cường Thọ** – giảng viên khoa CNTT Trường Đại học Nha Trang cùng các thầy cô bộ môn Kỹ thuật phần mềm đã hướng dẫn tạo điều kiện cho chúng em nghiên cứu và hoàn thành đề tài. Tuy nhiên do mới làm quen với hệ thống quản lý phiên bản phân tán Github và kiến thức C# còn hạn chế nên đồ án môn học của chúng em còn nhiều thiếu sót, chúng em mong nhận được sự góp ý từ thầy **Mai Cường Thọ** và các thầy cô giáo bộ môn để chúng em có thể hoàn thiện đồ án một cách tốt nhất.
+Để hoàn thành tốt đề tài này chúng em xin cảm ơn thầy **Mai Cường Thọ** – giảng viên khoa CNTT Trường Đại học Nha Trang cùng các thầy cô bộ môn Mạng đã hướng dẫn tạo điều kiện cho chúng em nghiên cứu và hoàn thành đề tài. Tuy nhiên do mới làm quen với hệ thống quản lý phiên bản phân tán Github và kiến thức C# còn hạn chế nên đồ án môn học của chúng em còn nhiều thiếu sót, chúng em mong nhận được sự góp ý từ thầy **Mai Cường Thọ** và các thầy cô giáo bộ môn để chúng em có thể hoàn thiện đồ án một cách tốt nhất.
 
 **_Một lần nữa, chúng em xin chân thành cảm ơn!_**
