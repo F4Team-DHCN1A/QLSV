@@ -52,13 +52,17 @@ CREATE TABLE SINHVIEN
 	MaSV nvarchar(10) primary key  NOT NULL,
 	HoSV nvarchar(30) not null,
 	TenSV nvarchar(50) NULL,
-	GioiTinh bit,
-	NgaySinh date NULL,
+	GioiTinh bit not null,
+	NgaySinh date not null,
 	MaLop nvarchar(10) NOT NULL,
 	MaKhoa nvarchar(10) NOT NULL,
 	FOREIGN KEY (MaLop) REFERENCES LOP(MaLop),
 	FOREIGN KEY (MaKhoa) REFERENCES KHOA(MaKhoa)
 )
+
+insert into HOCKY values('KH1',N'Học kỳ 1'),('HK2','Học kỳ 2')
+insert into GIANGVIEN values('GV001',N'Đinh Văn Thế'),('GV002',N'Nguyễn Hoàn Quân'),('GV003',N'Mai Cường Thọ')
+
 
 create proc dssinhvientheokhoa
 @makhoa nvarchar(10)
