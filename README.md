@@ -1,8 +1,13 @@
 # PHẦN MỀM QUẢN LÝ SINH VIÊN
 ![a](https://user-images.githubusercontent.com/27596661/28235914-d6ff2b0a-6942-11e7-8c61-2013b95c1303.PNG)
 ## Lời mở đầu
-Ngày nay với sự phát triển vượt bậc của công nghệ thông tin, công ty, tổ chức hay các cá nhân đều muốn có những phần mềm hỗ trợ trong việc quản lý của mình. Phần mềm `Quản lý sinh viên` ra đời nhằm khắc phục những khó khăn và hỗ trợ bộ phận quản lý sinh viên khi số lượng công việc tăng cao, linh hoạt hơn việc dùng sổ sách để quản lý.
-Phần mềm được phát triển trên ngôn ngữ lập trình C# và hệ quản trị cơ sở dữ liệu SQL server.
+  Với sự phát triển nhanh chóng của công nghệ thông tin đã ra đời nhiều công cụ hữu ích giúp chúng ta tiết kiệm rất nhiều thời gian và chi phí. Nhiều phần mềm trong lĩnh vực công  nghệ thông tin nhanh chóng ra đời đã góp phần đáng kể. Chính vì vậy, mỗi công ty, mỗi cơ quan đều muốn xây dựng riêng cho mình một phần mềm quản lý.
+
+  Để xây dựng một phần mềm có năng suất hoạt động tốt, cần có sự phối hợp về kiến thức cũng như ý tưởng của nhiều thành viên gộp lại. Vì vậy cần có một hệ thống quản lý phiên bản phân tán có thể giúp các thành viên dễ dàng trao đổi kiến thức cũng như code xây dựng phần mềm.
+  
+  Xuất phát từ những nhu cầu đó và theo yêu cầu môn học, nhóm chúng em xây dựng một phần mềm “Quản lý sinh viên” trên nền tảng ngôn ngữ lập trình C#, hệ quản trị cơ sở dữ liệu SQL và được xây dựng theo hướng phần mềm mã nguồn mở với các phiên bản được quản lý trên kho Github – một hệ thống quản lý phiên bản phân tán.
+  
+  `Mục tiêu` là nhằm tạo ra phần mềm Quản lý sinh viên với các chức năng cơ bản của một phần mềm quản lý, đồng thời nắm bắt được cách tổ chức mã nguồn theo mô hình 3 lớp và trao đổi code cũng như tài liệu xây dựng trên môi trường Github. Qua đó tạo điều kiện cho các nhà phát triển có thể fix lỗi và phát triển phần mềm theo chiều hướng khác nhau.
 ## Thành viên nhóm thực hiện
 1) Nguyễn Duy Thanh Tùng | MSSV: 14ĐC095 | SĐT: 01653841567
 2) Lê Văn Cường | MSSV: 14ĐC110 | SĐT: 01652096045
