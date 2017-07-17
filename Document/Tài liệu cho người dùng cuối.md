@@ -11,7 +11,7 @@
 - Hướng dẫn: Click lựa chọn các chức năng để thực hiện.
 ## Sau đây là các chức năng của chương trình
 ## 2) Quản lý môn học
-![form mon h c](https://user-images.githubusercontent.com/27407242/28236404-e0fbda9c-694f-11e7-8c3b-f3d8def3b128.JPG)
+![mon h c](https://user-images.githubusercontent.com/27407242/28252965-ba188f32-6ac7-11e7-9308-e196bd46bee3.JPG)
 - Chức năng: Quản lý các môn học trong quá trình học tập, bạn có thể Thêm/Sửa/Xóa thông tin các môn học.
 - Hướng dẫn:
   <ul>
@@ -21,7 +21,7 @@
   </ul>
 - Lưu ý: Khi sửa không được sửa Mã môn học.
 ## 3) Quản lý sinh viên
-![form sinh vien](https://user-images.githubusercontent.com/27407242/28236465-73324f4e-6951-11e7-98e3-7d40b4c6ef7f.JPG)
+![sinh vien](https://user-images.githubusercontent.com/27407242/28252986-d415f88e-6ac7-11e7-9756-f2d8dee021a3.JPG)
 * Chức năng: Quản lý các thông tin của sinh viên, bạn có thể Thêm/Sửa/Xóa thông tin của sinh viên.
 * Hướng dẫn:
   <ul>
@@ -30,7 +30,7 @@
     <li>Các thông tin bạn vừa xử lý sẽ được hiển thị tại bảng DataGridView bên cạnh.</li>
   </ul>
 ## 4) Quản lý điểm thi
-![fform di m](https://user-images.githubusercontent.com/27407242/28236934-b1653ee6-695d-11e7-9b76-aaab9ecf185a.JPG)
+![di m](https://user-images.githubusercontent.com/27407242/28252990-e15fe57c-6ac7-11e7-9513-fd81303f33cc.JPG)
 * Chức năng: Quản lý các điểm của sinh viên gồm Điểm chuyên cần, Điểm kiểm tra (15'), Điểm Giữa kỳ, Điểm thi (cuối kỳ) và Điểm trung bình sẽ được tự động tính khi nhập vào các điểm kia.
 * Hướng dẫn:
   <ul>
@@ -39,8 +39,8 @@
     <li>Các thông tin bạn vừa xử lý sẽ được hiển thị tại bảng DataGridView bên cạnh.</li>
   </ul>
 ## 5) Quản lý Khoa/Lớp
-![khoa](https://user-images.githubusercontent.com/27407242/28237080-4967c206-6961-11e7-9f8a-9849570d21d8.JPG)
-![l p](https://user-images.githubusercontent.com/27407242/28237089-592e608c-6961-11e7-8738-4b1237637d07.JPG)
+![khoa](https://user-images.githubusercontent.com/27407242/28253002-061090b0-6ac8-11e7-9336-62d6efd69cd5.JPG)
+![l p](https://user-images.githubusercontent.com/27407242/28252995-f8055c6c-6ac7-11e7-8d15-27543a14487d.JPG)
 * Chức năng: Quản lý thông tin các Khoa hoặc Lớp trong trường học, bạn có thể Thêm/Sửa/Xóa thông tin các Khoa hoặc Lớp.
 * Hướng dẫn:
   <ul>
@@ -49,8 +49,7 @@
     <li>Các thông tin bạn vừa xử lý sẽ được hiển thị tại bảng DataGridView bên cạnh.</li>
   </ul>
 ## 6) Tìm kiếm
-![tk](https://user-images.githubusercontent.com/27407242/28237093-63b5d418-6961-11e7-9729-71a59eb414a9.JPG)
-![tkma](https://user-images.githubusercontent.com/27407242/28237113-cfe83fc2-6961-11e7-9cbb-ad72181ce3c1.JPG)
+![tk](https://user-images.githubusercontent.com/27407242/28253006-192f607c-6ac8-11e7-8490-04ef35b4b8d7.JPG)
 * Chức năng: Tìm kiếm thông tin sinh viên, bạn có thể tìm bằng Mã sinh viên hoặc Tên sinh viên.
 * Hướng dẫn:
   <ul>
