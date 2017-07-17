@@ -7,7 +7,9 @@
   
   Xuất phát từ những nhu cầu đó và theo yêu cầu môn học, nhóm chúng em xây dựng một phần mềm “Quản lý sinh viên” trên nền tảng ngôn ngữ lập trình C#, hệ quản trị cơ sở dữ liệu SQL và được xây dựng theo hướng phần mềm mã nguồn mở với các phiên bản được quản lý trên kho Github – một hệ thống quản lý phiên bản phân tán.
   
-  `Mục tiêu` là nhằm tạo ra phần mềm Quản lý sinh viên với các chức năng cơ bản của một phần mềm quản lý, đồng thời nắm bắt được cách tổ chức mã nguồn theo mô hình 3 lớp và trao đổi code cũng như tài liệu xây dựng trên môi trường Github. Qua đó tạo điều kiện cho các nhà phát triển có thể fix lỗi và phát triển phần mềm theo chiều hướng khác nhau.
+  `Mục tiêu` là nhằm tạo ra phần mềm Quản lý sinh viên với các chức năng cơ bản của một phần mềm quản lý, đồng thời nắm bắt được cách tổ chức mã nguồn theo mô hình 3 lớp và trao đổi code cũng như tài liệu xây dựng trên môi trường Github. 
+  
+  Qua đó tạo điều kiện cho các nhà `phát triển` có thể fix các lỗi và phát triển phần mềm tối ưu hơn, có thể áp dụng vào trong quá trình thực tế. Bởi lẽ do kiến thức còn hạn chế, ý tưởng chưa có nhiều nên phần mềm chưa được hoàn thiện.
 ## Thành viên nhóm thực hiện
 1) Nguyễn Duy Thanh Tùng | MSSV: 14ĐC095 | SĐT: 01653841567
 2) Lê Văn Cường | MSSV: 14ĐC110 | SĐT: 01652096045
