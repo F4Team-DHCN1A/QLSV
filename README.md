@@ -63,7 +63,9 @@ Vui lòng xem tại [MIT License](https://github.com/F4Team-DHCN1A/QLSV/blob/mas
 ## Tài liệu thiết kế
 * Để xem tài liệu thiết kế, Vui lòng tham khảo [tại đây](https://github.com/F4Team-DHCN1A/QLSV/blob/master/Document/T%C3%A0i%20li%E1%BB%87u%20thi%E1%BA%BFt%20k%E1%BA%BF.md)
 ## Danh sách lỗi
-Phần mềm chưa được hoàn thiện, huy vọng các bạn đóng góp ý kiến hay update danh sách các lỗi [tại đây](https://github.com/F4Team-DHCN1A/QLSV/issues) để nhóm hay các nhà phát triển khác có thể hoàn thiện sản phẩm hơn.
+- Giao diện chưa đẹp,
+- Thiết kế dữ liệu chưa hợp lý.
+Phần mềm chưa được hoàn thiện, hy vọng các bạn đóng góp ý kiến hay update danh sách các lỗi [tại đây](https://github.com/F4Team-DHCN1A/QLSV/issues) để nhóm hay các nhà phát triển khác có thể hoàn thiện sản phẩm hơn.
 > T/g: Lê Văn Cường
 ## Cách lấy mã và đóng góp mã nguồn
 * Các bạn [click vào đây](https://github.com/F4Team-DHCN1A/QLSV/archive/master.zip) để Download mã nguồn,
