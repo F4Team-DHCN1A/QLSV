@@ -18,6 +18,11 @@
 ## Giấy Phép
 Vui lòng xem tại [MIT License](https://github.com/F4Team-DHCN1A/QLSV/blob/master/LICENSE) Copyright © 2017 F4 Team - Telecommunications University
 
+Giấy phép MIT là một loại giấy phép sử dụng cho các phần mềm, các mã nguồn mở được phát triển dựa trên một loại giấy phép có nguồn gốc tại Viện Công nghệ Massachusetts (MIT).
+
+Giấy phép MIT là loại giấy phép cho phép sử dụng mã nguồn tự do nhất, nó có thể kết hợp với các mã nguồn khác và đảm bảo tương thích tuân theo điều kiện của mọi lại giấy phép khác. Ví dụ nó có thể kết hợp với một phần mã nguồn được cung cấp bởi Giấy phép GPL và hoàn toàn cho phép phát triển theo giấy phép GPL. Đơn giản vì nó cho phép sử dụng mã nguồn tự do hơn cả Giấy phép GPL.
+
+Giấy phép MIT còn có tên gọi khác là giấy phép X11, Giấy phép MIT đã được sử dụng nhiều cho các phần mềm cho các hệ thống X Window.
 ## Thông tin tổ chức mã nguồn 
 ![a](https://user-images.githubusercontent.com/27596661/28235728-3a03d372-693e-11e7-80e3-f40cba1c35f4.png)
 ![a](https://user-images.githubusercontent.com/27596661/28235747-afaa6334-693e-11e7-86c3-b8993361b441.png)
